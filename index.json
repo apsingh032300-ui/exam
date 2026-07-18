@@ -1,5 +1,5 @@
 {
-    "computer": [
+  "computer": [
     "computer_memory",
     "computer_software",
     "computer_architecture",
@@ -20,6 +20,12 @@
     "practice_set_5",
     "programming_languages"
   ],
-  "math": ["avg", "ratio"],
-  "reasoning": ["blood_relation", "clock"]
+  "math": [
+    "avg",
+    "ratio"
+  ],
+  "reasoning": [
+    "blood_relation",
+    "clock"
+  ]
 }
