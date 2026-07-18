@@ -1,5 +1,25 @@
 {
-  "computer": ["input", "output", "hardware"],
+    "computer": [
+    "computer_memory",
+    "computer_software",
+    "computer_architecture",
+    "computer_hardware",
+    "concept_of_database",
+    "data_communication",
+    "data_representation",
+    "fundamental_of_computer",
+    "input",
+    "internet",
+    "ms_office",
+    "ms_word",
+    "operating_system",
+    "practice_set_1",
+    "practice_set_2",
+    "practice_set_3",
+    "practice_set_4",
+    "practice_set_5",
+    "programming_languages"
+  ],
   "math": ["avg", "ratio"],
   "reasoning": ["blood_relation", "clock"]
 }
