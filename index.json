@@ -1,5 +1,5 @@
 {
   "computer": ["input", "output", "hardware"],
-  "maths": ["avg", "ratio"],
+  "math": ["avg", "ratio"],
   "reasoning": ["blood relation", "clock"]
 }
