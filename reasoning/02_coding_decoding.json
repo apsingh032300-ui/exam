@@ -1,0 +1,1476 @@
+{
+  "title": "Coding-Decoding Practice Test",
+  "duration_minutes": 5,
+  "questions": [
+    {
+      "question": "एक निश्चित कूट भाषा में 'PAINT' को '70' लिखा जाता है, और 'POLISH' को '89' लिखा जाता है। उसी भाषा में 'CLEAN' को किस प्रकार लिखा जाएगा ?",
+      "options": [
+        "95",
+        "45",
+        "35",
+        "40"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "'TABLE' का '726251522' से, और 'FORMS' का संबंध '21129148' से वही संबंध है जो 'CHAIR' का '________' से है।",
+      "options": [
+        "241926189",
+        "241926198",
+        "241296189",
+        "214926189"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में, 'RICE' को '5136' लिखा जाता है, 'FUR' को '327' लिखा जाता है, और 'FIN' को '785' लिखा जाता है। उसी कूट भाषा में 'FUN' को संभवतः किस प्रकार लिखा जाएगा ?",
+      "options": [
+        "258",
+        "718",
+        "872",
+        "182"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में, यदि 'GREEN' को '209222213' लिखा जाता है, 'BLUE' को '2515622' लिखा जाता है, तो उसी कूट भाषा में 'WHITE' को किस प्रकार लिखा जाएगा ?",
+      "options": [
+        "41918721",
+        "41918622",
+        "41918722",
+        "d) 41917821"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "किसी कूट भाषा में, PAINT का कोड 83527 है और SCORE का कोड 49061 है। तो उसी कूट भाषा RECENT क्या होगा ?",
+      "options": [
+        "921235",
+        "190985",
+        "648497",
+        "619127"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "किसी कूट भाषा में, यदि KARAN को 45 लिखा जाता है, तो उस भाषा में ARUN को कैसे लिखा जाएगा ?",
+      "options": [
+        "54",
+        "56",
+        "41",
+        "42"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "यदि A का मान 1 हैं M का मान 13 और R का मान 18 हो तो MISSION को किस प्रकार लिखेंगे।",
+      "options": [
+        "129191991314",
+        "149191991314",
+        "139191991514",
+        "139191991314"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "यदि किसी कूट भाषा में LAST को 1234 और BOOK को 5667 लिखा जाता है, तो उस भाषा में TOAST को कैसे लिखा जाएगा ?",
+      "options": [
+        "45234",
+        "46234",
+        "46324",
+        "47234"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "किसी कूट भाषा में FORWARD को 1234536 और WATER को 45783 लिखा जाता है तो उस भाषा में RETARD को किस प्रकार से लिखेंगे ?",
+      "options": [
+        "387546",
+        "386536",
+        "387536",
+        "386546"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "यदि किसी कूट भाषा में LOVE को 54 लिखते हैं तो उसी भाषा में TEAR के लिए कूट क्या होगा ?",
+      "options": [
+        "43",
+        "45",
+        "46",
+        "44"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "यदि Charger = 60 है, तो Topper = ?",
+      "options": [
+        "40",
+        "90",
+        "26",
+        "52"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "यदि A = 26 और H = 19 है, तो FASHION = ?",
+      "options": [
+        "2126819181217",
+        "2126819181215",
+        "2126819181213",
+        "2126819181214"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "किसी कूट भाषा में, LETTER को 1252072218 लिखा जाता है, और BLISS को 2129198 लिखा जाता है। इसी कूट भाषा में COMMON को निम्नलिखित में से क्या लिखा जाएगा ?",
+      "options": [
+        "31513141113",
+        "31214131514",
+        "31513141214",
+        "31152131512"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "जिस कूट भाषा में, PENINSULA को 111 लिखा जाता है। उसी कूट भाषा में DICHOTOMY को किस प्रकार लिखा जाएगा ?",
+      "options": [
+        "222",
+        "121",
+        "212",
+        "112"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "यदि J = 17 और N = 13 है, तो JUNIOR = ? क्या होगा ?",
+      "options": [
+        "1751318129",
+        "1771318129",
+        "1741318129",
+        "1761318129"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "यदि ACE = 35, AGED = 91, तो CARE = ?",
+      "options": [
+        "359",
+        "323",
+        "288",
+        "358"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "किसी विशेष कूट भाषा में, RAIN को 4678 लिखा जाता है और WET को 135 लिखा जाता है, तो उसी कूट भाषा में ENTER को कैसे लिखा जाएगा ?",
+      "options": [
+        "35384",
+        "38534",
+        "38543",
+        "35834"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "एक विशिष्ट कूट भाषा में, SCHOOL को संख्या 72 के रूप में लिखा जाता है। उसी कूट भाषा में FLOWER को किस संख्या के रूप में लिखा जाएगा?",
+      "options": [
+        "54",
+        "79",
+        "71",
+        "89"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "एक विशिष्ट कूट भाषा में 'RQN' को 53 लिखा जाता है 'DLP' को 36 लिखा जाता है। उसी कूट भाषा में 'SRF' को किस प्रकार लिखा जाएगा ?",
+      "options": [
+        "47",
+        "51",
+        "53",
+        "49"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "यदि किसी विशेष कोड भाषा में, A को 1 लिखा जाता है और AIR को 28 लिखा जाता है, तो उसी भाषा में AIRCRAFT को किस तरह लिखा जाएगा?",
+      "options": [
+        "76",
+        "78",
+        "82",
+        "80"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "एक विशिष्ट कूट भाषा में, यदि ARCHITECT को 32051011227522 लिखा जाता है। तो उसी कूट भाषा में MANAGER को किस प्रकार लिखा जाएगा?",
+      "options": [
+        "1531537918",
+        "1311473718",
+        "1531639720",
+        "1311963720"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "यदि AMBER = 27 और BROWN = 14 है, तो GREEN बराबर होगा :",
+      "options": [
+        "28",
+        "36",
+        "39",
+        "24"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "किसी विशेष कूट भाषा में, ACCESS को 13351919 लिखा जाता है, तो उसी कूट भाषा में शब्द EXCELLENCE को किस प्रकार लिखा जाएगा ?",
+      "options": [
+        "524351414355",
+        "53351414123435",
+        "52435121251435",
+        "52345121414335"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "यदि A, 1 के बराबर है, S, 19 के बराबर है और G, 7 के बराबर है तो आप 'MASSAGE' को कैसे लिखेंगे?",
+      "options": [
+        "1311919175",
+        "1311919277",
+        "1311945355",
+        "1311945375"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "एक विशिष्ट कोड भाषा में, 'JUNIOR' को '6' लिखा जाता है। इस कोड भाषा में 'JOSEPHINE' का कोड क्या होगा?",
+      "options": [
+        "9",
+        "11",
+        "10",
+        "12"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "किसी निश्चित कूट भाषा में 'RAHUL' को '60' के रूप में लिखा जाता है तो उसी भाषा में 'ARUN' को कैसे लिखा जाएगा ?",
+      "options": [
+        "45",
+        "56",
+        "52",
+        "54"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "यदि BED को 42516 लिखा जाता है, तो DIG को क्या लिखा जाएगा",
+      "options": [
+        "1625363",
+        "253681",
+        "168149",
+        "161894"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "एक विशिष्ट कूट भाषा में, GOLDEN CIRCLE को 715124514 39183125 लिखा जाता है। उसी कूट भाषा में ENGLAND को किस प्रकार लिखा जाएगा ?",
+      "options": [
+        "5147112114",
+        "5174121144",
+        "5147121144",
+        "5174111114"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "एक विशेष कोड भाषा में, 'NATION' को '72' लिखा जाता है, 'NATURE' को '78' लिखा जाता है। इस कोड भाषा में 'PACKED' का कोड क्या है?",
+      "options": [
+        "41",
+        "45",
+        "39",
+        "43"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में यदि TAKE का कोड 7915 और CAT का कोड 297 है तब CAKE को क्या लिखा जाएगा।",
+      "options": [
+        "5179",
+        "7951",
+        "2915",
+        "5791"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में यदि SIMPLE को 631549 और PLOUGH को 547028 लिखा जाता है तो उसी कूट भाषा में SLEEP को किस प्रकार लिखा जाएगा?",
+      "options": [
+        "46995",
+        "64995",
+        "64959",
+        "46959"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "यदि किसी कोड भाषा में INCLUDE को 4790825 के रूप में कोडबद्ध किया जाता है और REVERT को 351536 के रूप में कोडबद्ध किया जाता है तो DRIVER को उस कोड भाषा में कैसे लिखा जाएगा?",
+      "options": [
+        "215343",
+        "251343",
+        "234315",
+        "234153"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "एक विशिष्ट कोड भाषा में, यदि MOBILE को 713694 के रूप में कोडबद्ध किया गया है और TABLET को 253942 के रूप में कोडबद्ध किया गया है, तो BALLET को किस प्रकार कोड बद्ध किया जाएगा?",
+      "options": [
+        "329954",
+        "359942",
+        "395942",
+        "359429"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "एक विशिष्ट कोड भाषा में, यदि HISTORY को 7326845 के रूप में कोडबद्ध किया गया है और CIVICS को 135312 के रूप में कोडबद्ध किया गया है, तो VISITOR किस प्रकार कोड बद्ध किया जाएगा?",
+      "options": [
+        "5323684",
+        "6843532",
+        "8463352",
+        "5323648"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "यदि WIND को 5273 और RIVER को 62981 कोडित किया जाता है तो WINNER का कोड होगा:",
+      "options": [
+        "527781",
+        "527782",
+        "527881",
+        "527884"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "यदि PAINT को 21563 और SHOT को 8503 से कोडित किया जाता है तो TOAST का कोड क्या होगा?",
+      "options": [
+        "31852",
+        "30183",
+        "30138",
+        "31038"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "यदि EAR = 235, TEAK = 7238 है तो KARATE = ?",
+      "options": [
+        "827535",
+        "837352",
+        "835872",
+        "835372"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "यदि TRACTOR = 14 और TROLLEY = 14 तो SCOOTER = ?",
+      "options": [
+        "24",
+        "14",
+        "28",
+        "30"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "एक निश्चित कोड में 'STARE' को '19201185' लिखा जाता है, तो उसी कोड में 'MOULD' को किस प्रकार लिखा जाएगा?",
+      "options": [
+        "132115124",
+        "131215214",
+        "131521124",
+        "131512214"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में यदि PROMOTION को 365458957 लिखा जाता है तो उसी कूट भाषा में MONITOR को किस प्रकार लिखा जायेगा?",
+      "options": [
+        "4579856",
+        "4578956",
+        "4597866",
+        "4578596"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "यदि AMERICA=1734651, INDIA=68961 तब CANADA को आप किस प्रकार लिखेंगे ?",
+      "options": [
+        "719181",
+        "518191",
+        "519581",
+        "715148"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "कूट को पूरा करो- B:8::C:?",
+      "options": [
+        "27",
+        "100",
+        "24",
+        "11"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में 'OBTAIN' को 'NATBOI' लिखा जाता है, और 'BEGGER' को 'RGGEBE' लिखा जाता है। उसी कूट भाषा में 'RUGGED' को किस प्रकार लिखा जाएगा?",
+      "options": [
+        "GGURED",
+        "DGGUER",
+        "DGUGE",
+        "DGGURE"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में ALMIRAH को HRRMUCI लिखा जाता है और COMPANY को JURIDPZ लिखा जाता है। उसी कूट भाषा में JUNGLEE को किस प्रकार लिखा जाएगा?",
+      "options": [
+        "QUREASR",
+        "QBSKHFW",
+        "QASKPHF",
+        "QASKOGF"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में SOFA को TQIE लिखा जाता है और CLOCK को DNRGP लिखा जाता है। उसी कूट भाषा में TABLE को किस प्रकार लिखा जाएगा?",
+      "options": [
+        "UCDPJ",
+        "UCEPJ",
+        "UBDPJ",
+        "UCEQH"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में 'MONTH' को 'OMPHT' लिखा जाता है, और 'MARCH' को 'AMTHC' लिखा जाता है। उसी कूट भाषा में 'APRIL' को किस प्रकार लिखा जाएगा?",
+      "options": [
+        "RAPLE",
+        "PARLI",
+        "PATLI",
+        "PAIRL"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में, 'MOMENTUM' को 'EMOMNTUM', लिखा जाता है और 'EQUATION' को 'AUQETION' लिखा जाता है। उसी कूट भाषा में 'MAGNETIC' को किस प्रकार लिखा जाएगा?",
+      "options": [
+        "NGMAEITC",
+        "NGMAETIC",
+        "NGAMECTI",
+        "NGAMETIC"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में, 'LEAF' को 'OGDH' लिखा जाता है, और 'TREE' को 'WTHG' लिखा जाता है। उसी कूट भाषा में 'STEM' को किस प्रकार लिखा जाएगा?",
+      "options": [
+        "UVHO",
+        "VVHO",
+        "VUHN",
+        "UVGH"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "किसी विशेष कूटभाषा में REWARI को TGYCTK के रूप में लिखा जाता है, तो DELHI को उसी कूटभाषा में कैसे लिखा जाएगा?",
+      "options": [
+        "FGLJK",
+        "FGNJK",
+        "FGOJK",
+        "FGMJK"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "किसी विशेष कूटभाषा में CRUDE को BSTED लिखा जाता है, तो उसी कूटभाषा में शब्द MOIST को कैसे लिखा जाएगा?",
+      "options": [
+        "LPHTS",
+        "NNJRU",
+        "NPJTU",
+        "LNHRS"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "यदि Father = Sdisbe है, तो Sister = ?",
+      "options": [
+        "Sdjrur",
+        "Sdurjr",
+        "Sdurrj",
+        "Sdurjr"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "एक विशिष्ट कोड भाषा में, ‘BUREAK’ को ‘PZVIFY’ लिखा जाता है। इस कोड भाषा में ‘CASPTL’ का कोड क्या है?",
+      "options": [
+        "PHKGYX",
+        "OHKGZX",
+        "PGKHYX",
+        "OGKHZX"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "यदि किसी कूट भाषा में, DAISY को CYFOT लिखा जाता है, तो उसी कूट भाषा में ROSE को किस प्रकार लिखा जाएगा?",
+      "options": [
+        "PMOY",
+        "QMOY",
+        "QMPA",
+        "SPTF"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में, 'SUN' को 'RTTVMO' लिखा जाता है और 'JOB' को 'IKNPAC' लिखा जाता है। उसी कूट भाषा में 'PIE' को किस प्रकार लिखा जाएगा?",
+      "options": [
+        "KOLPGY",
+        "RSIJFG",
+        "OQHJDF",
+        "OSJKCG"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "किसी विशेष कूट भाषा में, ALIGATOR को LAROGITA लिखा जाता है, तो उसी कूट भाषा में शब्द COMPUTER को किस प्रकार लिखा जाएगा?",
+      "options": [
+        "PMOCRETU",
+        "OCREPMTU",
+        "OCPMTURE",
+        "RETUPMOC"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में, LEADER को ELDARE लिखा जाता है, तो उसी कूट भाषा में FOUNTAIN को किस प्रकार लिखा जाएगा?",
+      "options": [
+        "FONUATIN",
+        "FOUNTANI",
+        "OFNUATNI",
+        "OFUNATIN"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "एक विशिष्ट कूट भाषा में ABHIMANYU को BAIJNBOUY लिखा जाता है तो उसी कूट भाषा में KARMPUTRA को किस प्रकार लिखा जाएगा?",
+      "options": [
+        "AKSNQVUAR",
+        "ABRNQVUSR",
+        "AKSPMTUSB",
+        "ABRNVUTAR"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "यदि OFG = M और ICM = P है, तो KDE = ? क्या होगा?",
+      "options": [
+        "I",
+        "J",
+        "H",
+        "K"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "एक विशेष कूट भाषा में, LOTUS को KPSVR लिखा जाता है, उसी कूट भाषा में WATER को किस प्रकार लिखा जाएगा?",
+      "options": [
+        "UQSGB",
+        "VBFSQ",
+        "UBFSQ",
+        "VBSFQ"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "एक निश्चित भाषा में SMILE को HNROV के रूप में कूटबद्ध किया जाता है, तो उसी भाषा में TEACH को किस प्रकार कूटबद्ध किया जाएगा?",
+      "options": [
+        "GVZXS",
+        "GSZVX",
+        "GXVSZ",
+        "GZVXS"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "किसी विशेष कूटभाषा में TEACHER को TFCFLJX लिखा जाता है, तो उसी कूटभाषा में शब्द CATCHER को किस प्रकार लिखा जाएगा?",
+      "options": [
+        "BCVFLXJ",
+        "CBVFLJX",
+        "CBVFLJX",
+        "BCVFLJY"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "यदि एक निश्चित कूट में SPECTROSCOPY को ESPRTCOSYOP लिखा जाता है, तो उसी कूट भाषा में EXTRAVAGANZA को कैसे लिखा जाएगा?",
+      "options": [
+        "REXTGAVAANZA",
+        "TXEVARAGAAZN",
+        "TEXVRAAAGANZ",
+        "TEXVRAAGAANZ"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "एक विशेष कूट भाषा में, 'CUMIN' को 'AVKJL' लिखा जाता है और 'GUEST' को 'EVCTR' लिखा जाता है। उसी कूट भाषा में 'ALIEN' को कैसे लिखा जाएगा?",
+      "options": [
+        "YMGFL",
+        "BJKLF",
+        "UHFTR",
+        "VTFSE"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "किसी विशेष कूट भाषा में, MAHARAJA को ZNUNENWN लिखा जाता है, तो उसी कूट भाषा में शब्द RAINDROP को किस प्रकार लिखा जाएगा?",
+      "options": [
+        "ENVAEQBC",
+        "ENVAQEBC",
+        "EVNAQEBC",
+        "ENAVQEBC"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "एक विशिष्ट कोड भाषा में NDRWCK को GUGPTZ लिखा जाता है। इस कोड भाषा में MTSFHJ का कोड क्या है?",
+      "options": [
+        "FOPWWW",
+        "FOPXXX",
+        "FKHZZZ",
+        "FKHYYY"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में PROBLEM को PSMEHJ G लिखा जाता है। उसी कूट भाषा में शब्द SPRINGS को कैसे लिखा जाएगा?",
+      "options": [
+        "SQPLJLM",
+        "SQTLJLS",
+        "SQPLJLS",
+        "SOPLJLS"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में, POSITIVE को KQHKGKEG लिखा जाता है। उसी कूट भाषा में NATIONAL को किस प्रकार लिखा जाएगा?",
+      "options": [
+        "MCGKLPZN",
+        "MCGKOCPL",
+        "MCGKPLZN",
+        "MCGKLPCO"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "यदि Apple = Brspj, और Mango = Ncqkt है, तो Grapes निम्न में से किसके बराबर होगा?",
+      "options": [
+        "Gsbqdu",
+        "Hscsjy",
+        "Htdtjy",
+        "Hytchk"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "यदि किसी निश्चित कूट भाषा में यदि TREE को SQDD लिखा जाता है, तो CUSHION को कैसे लिखा जाएगा?",
+      "options": [
+        "BTRGHNM",
+        "BVQIPOM",
+        "DVTIJPO",
+        "BTRGJPM"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में, OFFICE को FFOECI लिखा जाता है। इसी कूट भाषा में CIRCLE को कैसे लिखा जाएगा?",
+      "options": [
+        "RICELC",
+        "CELCRI",
+        "ELCRIC",
+        "ICCREL"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "यदि एक निश्चित कूट भाषा में GLOBAL का कोड HMPCBM है उसी कूट भाषा में STAND को किस प्रकार लिखा जाएगा।",
+      "options": [
+        "TUBEO",
+        "TBOUE",
+        "TBUEO",
+        "TUBOE"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "यदि निश्चित भाषा में HEAVEN का कोड IFBWFO हो तो HARVARD का क्या कोड होगा?",
+      "options": [
+        "IBSWBES",
+        "IBBESSW",
+        "IBSWBSE",
+        "SWIBBES"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में KEPLER को EKLPRE लिखा जाता है तो उसी कूट भाषा में GALAXY को क्या लिखा जाएगा?",
+      "options": [
+        "GAALYX",
+        "AGALYX",
+        "GXALAY",
+        "LAYXGA"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "यदि KINGS को RFMHJ कोडित किया जाता है तो आप QUEEN को कैसे कोडित करेंगे?",
+      "options": [
+        "RTDMD",
+        "MDDTP",
+        "VFFOT",
+        "EUULG"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "यदि TEACHER को UDBBIDS कोडित किया जाता है तो STUDENT को कोड होगा:",
+      "options": [
+        "RSTCDMS",
+        "TUVEFOU",
+        "TSVCFMU",
+        "RUTEDOS"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "यदि एक खास भाषा में, SCARCE को CSRAEC के रूप में कोड बद्ध किया गया हो, तब उस कोड भाषा में STABLE को कैसे कोड किया जाएगा?",
+      "options": [
+        "TBSAEL",
+        "BTSAEL",
+        "BTELSA",
+        "TSBAEL"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में TOGGLE को OTGGEL लिखा जाता है तो उसी कूट भाषा में KEPLER को क्या लिखा जाएगा?",
+      "options": [
+        "EEKLPR",
+        "PREEKL",
+        "RPEEKL",
+        "EKLPRE"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में यदि GIRL को HJSM लिखा जाता है तो उसी कूट भाषा में LADY को क्या लिखा जाएगा?",
+      "options": [
+        "MBEZ",
+        "MBZE",
+        "MEBZ",
+        "MZBE"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "यदि NOTEBOOK को REGOLEEN और SHIRT को XYZBG कोडित किया जाए, तो TORN का कोड होगा।",
+      "options": [
+        "GZBR",
+        "GEBN",
+        "GEBR",
+        "GOBR"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "यदि ABSENT = BDVISZ, तब SCHOOL का कूट रूपांतर होगा?",
+      "options": [
+        "TKESSR",
+        "TEKSTR",
+        "TKERTS",
+        "TEKRRS"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में 'she is beautiful' को 'mat mug bit' लिखा जाता है और 'beautiful and water' को 'bit cap lan' लिखा जाता है। उसी कूट भाषा में 'beautiful' को किस प्रकार लिखा जायेगा?",
+      "options": [
+        "bit",
+        "mug",
+        "cap",
+        "mat"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में, 'life is good' लिखा जाता है, 'cip cin er' को 'love is life' लिखा जाता है। कूट भाषा में 'love' को किस प्रकार लिखा जाएगा?",
+      "options": [
+        "cip",
+        "oob",
+        "er",
+        "cin"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में, प्रत्येक शब्द को एक आंकिक कूट के रूप में लिखा जाता है। तदनुसार, 1875 का अर्थ 'wound the round watch' है, 6143 का अर्थ 'a cake is round' है, और 7321 का अर्थ 'watch a round wheel' है। उस कूट भाषा में 'watch' का कूट क्या होगा?",
+      "options": [
+        "7",
+        "8",
+        "5",
+        "1"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में, 'bitter ash kill' को pal odd tom' लिखा जाता है, 'very cute doll' को 'saw tim toy' लिखा जाता है, और 'doll and kill' को 'toy sad tom' लिखा जाता है। उसी कूट भाषा में 'and' को किस प्रकार लिखा जाएगा?",
+      "options": [
+        "toy",
+        "cute",
+        "sad",
+        "doll"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "एक निश्चित कूटभाषा में, 'red fancy light' को TK MD BH लिखा जाता है, 'tomatoes are red' को MD NG LS लिखा जाता है। उसी कूट भाषा में, 'red' के लिए प्रयुक्त कूट-शब्द निम्न में से कौन सा है?",
+      "options": [
+        "NG",
+        "BH",
+        "TK",
+        "MD"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "यदि किसी निश्चित कूट भाषा में BALL को OBEY COMA LORD GULF लिखा जाता है, तो उसी भाषा में KITE को कैसे लिखा जाएगा?",
+      "options": [
+        "SKIN ORBIT TOTAL ENTER",
+        "SKILL ROBIN TELL GOAT",
+        "SKIP OPTIC TOOL GET",
+        "SKY BRAIN TABLE GOES"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "एक निश्चित भाषा में GJL TUO CBM का अर्थ 'It is car' है, QAZ GJL KJH का अर्थ 'He is Ram' है, CBM KJH OIU का अर्थ 'Ram has car' है इस भाषा में 'It' का अर्थ क्या होगा?",
+      "options": [
+        "TUO",
+        "CBM",
+        "KJH",
+        "QAZ"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में, '95' का अर्थ 'estimated time' है, '469' का अर्थ 'space and time' है और '65' का अर्थ 'estimated space' है। उसी कूट भाषा में निम्नलिखित में से किस संख्या का अर्थ 'space' है?",
+      "options": [
+        "6",
+        "4",
+        "9",
+        "5"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "एक विशेष कूट भाषा में, 'Sharks are fish' को '@ # mt' लिखा जाता है, 'Fish eat food' को 'lu mt ak' लिखा जाता है, 'Sharks eat fish' को 'mt ak @' लिखा जाता है। उस कूट भाषा में 'Sharks' के लिए प्रयुक्त कूटशब्द क्या है?",
+      "options": [
+        "mt",
+        "ak",
+        "@",
+        "lu"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "किसी विशिष्ट कूट भाषा में 'Ram work there' को 'huge tyo tre' के तौर पर लिखा जाता है, 'Sima study there' को 'noe dow tre' के तौर पर लिखा जाता है, और 'Ram study here' को 'huge dow try' के तौर पर लिखा जाता है, तो इसी भाषा में 'Ram there' और 'Sima work' को क्रमशः किस तरह लिखा जाएगा?",
+      "options": [
+        "Try dow और huge tyo",
+        "noe tyo और huge dow",
+        "huge tre और noe tyo",
+        "huge tyo और dow tre"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "एक विशिष्ट कूट भाषा में, 'tomorrow you see' को 'la et vi' लिखा जाता है; 'are you late' को 'et ju fa' लिखा जाता है; तथा 'tomorrow come late' को 'si vi fa' लिखा जाता है। उसी कूट भाषा में 'are' को कैसे लिखा जाएगा?",
+      "options": [
+        "si",
+        "et",
+        "ju",
+        "la"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "एक विशिष्ट भाषा में: 'Stairs going up' का अर्थ QEW ADS ZCX है, 'How many stairs' का अर्थ PIO LJK ADS है, 'He is going' का अर्थ QEW RYT FHG है। दिए गए विकल्पों में से किसका अर्थ 'up' है?",
+      "options": [
+        "QEW",
+        "ZCX",
+        "ADS",
+        "LJK"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "किसी निश्चित कूट भाषा में 'Ram is boy' को 'qaz wsx edc' लिखा जाता है, 'boy has car' को 'plm qaz ijb', और 'car is blue' को 'edc ijb ftb' लिखा जाता है। उस भाषा में 'Ram' को किस प्रकार लिखा जायेगा?",
+      "options": [
+        "ftb",
+        "edc",
+        "wsx",
+        "qaz"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में, 'she is fine' को 'li qi si' लिखा जाता है और 'is sam healthy' को 'oi ti li' लिखा जाता है। उसी कूट भाषा में 'is' को किस प्रकार लिखा जाएगा?",
+      "options": [
+        "qi",
+        "si",
+        "li",
+        "oi"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "किसी सांकेतिक भाषा में, 'surat is a hot place' को 'a hot is place surat' तथा 'water vapour to air here' को 'to air vapour here water' लिखा गया है, तो उसी सांकेतिक भाषा में 'shimla is a hill place' को क्या लिखा जाएगा?",
+      "options": [
+        "A hill is place Shimla",
+        "A hill is a hill place",
+        "A hill place is Shimla",
+        "A hill place is a place hill"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "किसी निश्चित कूट भाषा में 257 का अर्थ 'I like you', 746 का अर्थ 'You are good' तथा 263 का अर्थ 'I am good' है। 'Are' के लिए किस संख्या को कोडित किया गया है?",
+      "options": [
+        "3",
+        "6",
+        "5",
+        "4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में यदि '924' का अर्थ 'they like tomato' है, '935' का अर्थ 'we love tomato' है और '956' का अर्थ 'tomato love mango' है, तो 'mango' के लिए किस अंक का उपयोग किया गया है?",
+      "options": [
+        "4",
+        "2",
+        "9",
+        "6"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "एक विशिष्ट कोड भाषा में Horses are animals को lu # @ लिखा जाता है। Animals are mammals को kt lu # लिखा जाता है। Are horses mammals को kt # @ लिखा जाता है। इस कोड भाषा में Animals का कोड क्या है?",
+      "options": [
+        "#",
+        "kt",
+        "lu",
+        "@"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "किसी विशिष्ट कूट भाषा में 'Food is Hot' को 'Feni de Mil', 'Tea is Ready' को 'Din de Kele'; 'Cold and Hot' को 'Kan ku Mil' तथा 'I am Ready' को 'Mest ni Kele' के रूप में लिखा जाता है, तो उसी कूट भाषा में 'Tea is Hot' को कैसे लिखा जाएगा?",
+      "options": [
+        "Din de Mil",
+        "Mil de Din",
+        "Din ni Mil",
+        "Din de Kele"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "किसी कूट भाषा में, यदि #S* का अर्थ 'table is clean', @D# का अर्थ 'Clean and neat' है और @? का अर्थ 'neat girl' है, तो उस भाषा में 'and' के लिए प्रयुक्त कूटशब्द क्या है?",
+      "options": [
+        "?",
+        "#",
+        "@",
+        "D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "एक विशिष्ट कोड भाषा में, 'Car have wheels' को '@ mu #' लिखा जाता है, 'Wheels are red' को 'Su bc mu' लिखा जाता है, 'I have red car' को '7 @ Su #' लिखा जाता है। इस कोड भाषा में, 'Wheels car' का कोड निम्न में से क्या होगा?",
+      "options": [
+        "mu #",
+        "Su #",
+        "mu SU",
+        "# @"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "यदि 'now or never' को 'xen zab yog', never say that' को 'ula xen vak' और 'now say this' को 'ula zab tal' कोडित किया जाता है तो 'this or that' = ?",
+      "options": [
+        "tal xen zab",
+        "yog vak tal",
+        "tal yog zab",
+        "ula yog zab"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "यदि 'this is done' को 792 'that is remaining' को 824 और 'remaining is done' को 298 से कोडबद्ध किया जाता है तो कौन सा अंक 'done' दर्शाता है?",
+      "options": [
+        "4",
+        "7",
+        "2",
+        "9"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "यदि 'you are john' को 'net let fat' के रूप में 'who are you' को 'let wet net' के रूप में और 'john is good' को 'get set fat' के रूप में लिखा जाता है तो कौन सा शब्द 'is' को दर्शाएगा?",
+      "options": [
+        "set",
+        "get",
+        "fat",
+        "निर्धारित नहीं किया जा सकता"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "यदि 'are you sam'='ri ai ki', 'all hate you'='vi li ri' और 'all are fake'='mi ai li' हो तो निम्न में से कौन सा विकल्प 'hate' को दर्शाएगा?",
+      "options": [
+        "ri",
+        "li",
+        "vi",
+        "ai"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "एक कोड के अनुसार, 'blue is black' को 127 लिखा जाता है; 'black is beautiful and fun' को 95214 एवं 'rose is black and beautiful' को 52189 कौन सा अंक 'rose' को दर्शाता है?",
+      "options": [
+        "5",
+        "8",
+        "7",
+        "9"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "किसी निश्चित कूट भाषा में '415' का अर्थ 'milk is hot'. '18' का अर्थ 'hot soup' और '895' का अर्थ 'soup is tasty' हो तो कौन सी संख्या 'tasty' शब्द को दर्शाएगी?",
+      "options": [
+        "3",
+        "6",
+        "9",
+        "8"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "किसी निश्चित कूट भाषा में 324 का अर्थ 'are you alright', 783 का अर्थ 'you come home' और 9271 का अर्थ 'we are at home'। कौन सा अंक 'come' दर्शाता है?",
+      "options": [
+        "8",
+        "9",
+        "7",
+        "3"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "यदि 'how are you' को 'ne ki se', 'where are you' को 'ne bl se' और 'you where here' को 'bl ne jo' में लिखा जाता है, तो 'how you here' को किस संभावित भाषा में क्या लिखा जाएगा?",
+      "options": [
+        "ki ne jo",
+        "se ne ki",
+        "ne bl ke",
+        "bl se ne"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "किसी निश्चित कूट भाषा में 329 का अर्थ 'you are bad', 419 का अर्थ 'bad is good' और 195 का अर्थ 'nothing is bad' है। ............. 'good' दर्शाता है-",
+      "options": [
+        "9",
+        "4",
+        "1",
+        "3"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "यदि 'god is fair' = 'ge se fa', 'who is god' = 'ge we fa' और 'you are god' = 'ne le fa' है तो कौन सा कोड 'is' को दर्शाता है?",
+      "options": [
+        "se",
+        "ge",
+        "fa",
+        "we"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "यदि 'summer is hot' को 'de fe ba' और 'come cold summer' को 'ja ha ba' और 'winter is cold' को 'pa ja de' कोडबद्ध किया जाता है तो 'come hot winter' को ......... कोडबद्ध किया जाएगा।",
+      "options": [
+        "de ba ja",
+        "fe ba pa",
+        "ba pa ha",
+        "pa ha fe"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "किसी कोड में 592 का अर्थ है 'grapes are sweet' तथा 374 का अर्थ है, 'I like oranges' एवं 267 का अर्थ है, 'oranges are sour'. कौन सा अंक sour प्रदर्शित करता है?",
+      "options": [
+        "9",
+        "5",
+        "6",
+        "मालूम नहीं किया जा सकता है"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "किसी कोड में 413 का अर्थ 'Black is bold', 97685 का अर्थ 'Birds like the blue sky' है, और 10274 का अर्थ 'Peacock is blue and bold', 'Blue' के लिए उपयुक्त अंक 7 है।",
+      "options": [
+        "1",
+        "4",
+        "7",
+        "8"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "एक विशेष कोडिंग भाषा में, 'Ginger is a root' को 4123 लिखा जाता है, 'a tree has a root' को 75422 लिखा जाता है और 'Tree is green' को 385 लिखा जाता है। तो कौन से अंक द्वारा 'root' लिखा जाता है?",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "किसी कोड में 'roses are red' को 506 लिखा गया, और 'violets are blue' को 195 लिया गया, और 'blue and red are few' को 31405 लिखा गया। तो कौन सा अंक few दर्शाता है?",
+      "options": [
+        "3",
+        "1",
+        "4",
+        "मालूम नहीं किया जा सकता है"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "यदि 'Red yellow and pink are colours' 501289 के रूप में है : 'Pink is bad' 640 है और Yellow and red are good' 21597 है। कौन सा अंक 'red' है?",
+      "options": [
+        "2",
+        "5",
+        "9",
+        "मालूम नहीं किया जा सकता है"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "एक कोड भाषा में 'costly dining table' को 'an ob cp' के जैसे लिखा है और 'cannot buy table' को 'es an dq' के जैसे लिखा है, तो 'table' को किस तरह लिखा जाएगा?",
+      "options": [
+        "ob",
+        "cp",
+        "dq",
+        "an"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "यदि 'health care is wealth' को 1372, 'health needs care' को 417, 'he needs wealth' को 463 लिखा जाता है तो 'he is wealth' को............लिखा जाएगा।",
+      "options": [
+        "326",
+        "764",
+        "624",
+        "246"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "यदि 'he needs help' को 'pe av se', 'someone must help' को 've pe em' और 'he is someone' को 'av fi em') लिखा जाता है तो 'someone needs help' को लिखा जाएगा।",
+      "options": [
+        "pe m vo",
+        "av se pe",
+        "pe em se",
+        "vo av se"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में यदि 723 का अर्थ 'we feel good' 728 का अर्थ 'feel good factor' और 9731 का अर्थ 'we definitely feel se' है तो कौन सी संख्या 'definitely' को दर्शाती है?",
+      "options": [
+        "8",
+        "9",
+        "7",
+        "मालूम नहीं किया जा सकता है"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में यदि 'mine' = 3214, 'talk' = 8756, 'peak'=8964 और tame = 1654 हो तो......... 'm' को दर्शाता है।",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "9"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "यदि 'god is great' = 'cp an bo' 'great help done = er cp fs और he is great = bo cp dq हो तो he is god' निम्नलिखित में से किसके द्वारा दर्शाया जाएगा?",
+      "options": [
+        "cp er bo",
+        "an bo cp",
+        "dq bo cp",
+        "an bo dq"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में, CABLE को 65@7# लिखा जाता है, और PARKLET को 85917#2 लिखा जाता है। उसी कूट भाषा में ELRAP को किस प्रकार लिखा जाएगा?",
+      "options": [
+        "#9587",
+        "9#785",
+        "#7958",
+        "7#958"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "यदि 'शरद' को 'सर्दी' कहा जाता है, 'सर्दी' को 'गर्मी' कहा जाता है, 'वर्षा' को 'मेघाच्छादित' कहा जाता है, तो हम किस मौसम में निश्चित रूप से ऊनी वस्त्र पहनते हैं?",
+      "options": [
+        "गर्मी",
+        "वर्षा",
+        "मेघाच्छादित",
+        "सर्दी"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "यदि 'वृत्त' को 'त्रिभुज' कहते हैं, 'त्रिभुज' को 'वर्ग' कहते हैं और 'वर्ग' को 'आयत' कहते हैं, तो तीन भुजाओं वाले बहुभुज को क्या कहेंगे?",
+      "options": [
+        "वृत्त",
+        "त्रिभुज",
+        "वर्ग",
+        "आयत"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "यदि अंक समूह 395 और 727 का योग 101112 को निरूपित करता है, और इसी कूट के द्वारा, अंक समूहों 276 और 957 का योग 111213 को निरूपित करता है, तो अंक समूहों 689 और 877 के योग के लिए निम्नलिखित में से कौन सा कूट हो सकता है?",
+      "options": [
+        "141312",
+        "131415",
+        "121314",
+        "141516"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "शब्द JUNCTION को 4 भिन्न कूटभाषाओं में निम्नानुसार लिखा जाता है: कूटभाषा 1 : QFMXGRLM, कूटभाषा 2 : LYTKDUCD, कूटभाषा 3 : KWQGYOVV, कूटभाषा 4 : LWPEVKQP. इनमे से किस कूटभाषा में शब्द CUSTOMER को XFHGLNVI लिखा जाता है?",
+      "options": [
+        "कूटभाषा 3",
+        "कूटभाषा 2",
+        "कूटभाषा 4",
+        "कूटभाषा 1"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "यदि किसी कोडिंग प्रणाली में 7 + 8 + 9 = 798 और 4 + 6 + 8 = 486 है, तो 5 + 2 + 4 का मान ज्ञात कीजिए।",
+      "options": [
+        "524",
+        "452",
+        "425",
+        "542"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "एक विशिष्ट कूट भाषा में, सूर्य को पृथ्वी लिखा जाता है, पृथ्वी को बुध लिखा जाता है, बुध को शुक्र लिखा जाता है, मंगल को सूर्य लिखा जाता है और शुक्र को मंगल लिखा जाता है। उसी कूट भाषा में 'शुक्र, बुध और पृथ्वी के बीच स्थित है' को किस प्रकार लिखा जाएगा?",
+      "options": [
+        "मंगल, पृथ्वी और सूर्य के बीच स्थित है।",
+        "मंगल, शुक्र और बुध के बीच स्थित है।",
+        "बुध, शुक्र और मंगल के बीच स्थित है।",
+        "बुध, पृथ्वी और सूर्य के बीच स्थित है।"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "यदि किताब को 'कलम' कहा जाता है, 'कलम' को 'गेहूं' कहा जाता है, 'गेहूं' को 'कुर्सी' कहा जाता है, 'कुर्सी' को 'कप' कहा जाता है और 'कप' को 'पुस्तक' कहा जाता है, तो खाने के लिए इनमें से किसका प्रयोग किया जाएगा?",
+      "options": [
+        "कुर्सी",
+        "गेहूं",
+        "कलम",
+        "पुस्तक"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "यदि 'सेब' को 'शैम्पू' कहा जाता है, 'शैम्पू' को 'दूध' कहा जाता है, 'दूध' को 'कलम' कहा जाता है, 'कलम' को 'बाल' कहा जाता है और 'बाल' को 'सेब' कहा जाता है, तो पीने के लिए इनमें से किसका प्रयोग किया जाएगा?",
+      "options": [
+        "बाल",
+        "शैम्पू",
+        "सेब",
+        "कलम"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "यदि 'हॉकी' को 'मेज' के रूप में, 'बास्केटबॉल' को 'बेड' के रूप में, 'बैडमिंटन' को 'स्टूल' के रूप में तथा 'क्रिकेट' को 'डेस्क' के रूप में जाना जाता है, तो इनमें से कौन सा खेल दो खिलाड़ियों या टीमों के बीच नेट लगाकर खेला जाता है?",
+      "options": [
+        "स्टूल",
+        "डेस्क",
+        "बेड",
+        "मेज"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "यदि 'कूलर' को 'भोजन' कहा जाता है, 'भोजन' को 'गुलाब' कहा जाता है, 'गुलाब' को 'रेस्टोरेंट' कहा जाता है, और 'रेस्टोरेंट' को 'नटखट' कहा जाता है, तो आदमी क्या खाएगा?",
+      "options": [
+        "कूलर",
+        "गुलाब",
+        "नटखट",
+        "रेस्टोरेंट"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "एक निश्चित कूट भाषा में, 'FAST' को 'btug' लिखा जाता है, 'RIPE' को 'sqfj' लिखा जाता है और 'LOVE' को 'pwfm' लिखा जाता है और 'TABLE' को 'ubcfm' लिखा जाता है। उस भाषा में 'E' के लिए प्रयुक्त कूट क्या है?",
+      "options": [
+        "f",
+        "m",
+        "j",
+        "p"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "शब्द MANGO को 4 अलग-अलग कूट भाषाओं में निम्न प्रकार लिखा जाता है। कूटभाषा 1: NBOHP, कूटभाषा 2: LZMFN, कूटभाषा 3: OCPIQ, कूटभाषा 4: NCQKT। इनमें से किस कूट भाषा में शब्द ORANGE को PTDRLK लिखा जाता है?",
+      "options": [
+        "कूटभाषा 4",
+        "कूटभाषा 1",
+        "कूटभाषा 2",
+        "कूटभाषा 3"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "यदि 'उर्दू', 'संस्कृत', 'इतिहास', 'भौतिकी' और 'अर्थशास्त्र' को क्रमशः 'भौतिकी', 'इतिहास', 'उर्दू', 'अर्थशास्त्र' और 'संस्कृत' के नाम से जाना जाता है, तो हमने न्यूटन के बारे में किस विषय में पढ़ा था?",
+      "options": [
+        "इतिहास",
+        "भौतिकी",
+        "उर्दू",
+        "अर्थशास्त्र"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "यदि 31 C 19 D 57 = 93 और 52 C 13 D 5 = 20 हो, तो 98 C 14 D 11 = ?",
+      "options": [
+        "79",
+        "75",
+        "77",
+        "73"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "उस संख्या का चयन करें, जो प्रश्न चिह्न (?) के स्थान पर आ सकती है। 199 = 18, 267 = 26, 456 = 26, तो 678 = ?",
+      "options": [
+        "55",
+        "52",
+        "50",
+        "56"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "यदि 'पश्चिम' को 'दक्षिण', 'दक्षिण' को 'पूर्व', 'पूर्व' को 'उत्तर' और 'उत्तर' को 'पश्चिम' कहा जाता है, तो सूर्योदय किस दिशा में होता है?",
+      "options": [
+        "पूर्व",
+        "उत्तर",
+        "पश्चिम",
+        "दक्षिण"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "यदि 29 Q 8 R 56 = 176 और 84 R 5 Q 13 = 19 है, तो 51 Q 3 R 46 का मान ज्ञात कीजिए।",
+      "options": [
+        "94",
+        "109",
+        "132",
+        "107"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "यदि 24 B 6 B 12 = 42 तथा 31 B 7 B 13 = 51 है, तो 64 B 9 B 4 का मान ज्ञात कीजिए।",
+      "options": [
+        "77",
+        "78",
+        "76",
+        "79"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "यदि 69 - 26 = 66; 86 - 34 = 60; 35 - 28 = 31 है, तो 77 - 21 का मान ज्ञात कीजिए।",
+      "options": [
+        "56",
+        "35",
+        "51",
+        "47"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "यदि 8 + 5 = 1340 सत्य है, तो 4 + 6 का मान क्या होगा?",
+      "options": [
+        "1024",
+        "1304",
+        "1414",
+        "1012"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "यदि सफेद को काला कहा जाए, काले को लाल, लाल को पीला, पीले को हरा, हरे को नीला, नीले को बैंगनी तथा बैंगनी को नारंगी कहा जाए, तब मानव रक्त का रंग क्या होगा?",
+      "options": [
+        "हरा",
+        "काला",
+        "लाल",
+        "पीला"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "यदि किसी कोड भाषा में EXTRANET को 9#416394 के रूप में कोडबद्ध किया जाता है और TECHNOLOGY को 492735850# के रूप में कोडबद्ध किया जाता है तो TOLERANCE को उस कोड भाषा में कैसे लिखा जाएगा?",
+      "options": [
+        "458913629",
+        "459813629",
+        "458916329",
+        "549816329"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "यदि 'code' = 6241, 'made' = 5346, 'come' = 3124 और 'to' = 27 तो 'dome' = ?",
+      "options": [
+        "6134",
+        "5214",
+        "6124",
+        "2634"
+      ],
+      "answer": 3
+    }
+  ]
+}
