@@ -1,0 +1,1156 @@
+{
+  "title": "General Knowledge — Practice Test",
+  "duration_minutes": 5,
+  "questions": [
+    {
+      "question": "1. 5, 16, 29, 46, 65, 88, ?",
+      "options": [
+        "116",
+        "107",
+        "117",
+        "113"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "2. 123, 123, 110, 110, 121, 121, 108, 108, ?",
+      "options": [
+        "119, 119",
+        "97, 97",
+        "123, 123",
+        "127, 127"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "3. 85, 84, 92, 65, 129, ?",
+      "options": [
+        "258",
+        "329",
+        "177",
+        "4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "4. 6, 11, 19, 33, 59, 109, ?",
+      "options": [
+        "205",
+        "218",
+        "207",
+        "229"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "5. 97, 86, 101, 89, 107, ?, ?",
+      "options": [
+        "84, 125",
+        "114, 169",
+        "121, 144",
+        "94, 115"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "6. 69, 55, 26, 13, ?",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "7. 5, 10, 17, 26, ?",
+      "options": [
+        "37",
+        "34",
+        "36",
+        "35"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "8. 22, 23, 26, 27, 30, 31, ?",
+      "options": [
+        "31",
+        "35",
+        "34",
+        "33"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "9. 7, 12, 19, ?, 39",
+      "options": [
+        "29",
+        "28",
+        "24",
+        "26"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "10. 1, 1, 2, 8, 3, 27, 4, (*), 5, 125",
+      "options": [
+        "32",
+        "96",
+        "36",
+        "64"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "11. 46, 31, 22, 17, 30, -32, -89, -179 (कौन सी संख्या संबंधित नहीं है)",
+      "options": [
+        "-32",
+        "-89",
+        "30",
+        "22"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "12. 4, 14, 60, 248, ?",
+      "options": [
+        "1012",
+        "1008",
+        "1020",
+        "1016"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "13. 4, 16, 40, ?",
+      "options": [
+        "68",
+        "98",
+        "48",
+        "88"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "14. 2, 7, 14, 23, ?",
+      "options": [
+        "13",
+        "30",
+        "33",
+        "34"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "15. 3, 27, 243, ?",
+      "options": [
+        "2900",
+        "2187",
+        "2493",
+        "2100"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "16. 9, 81, 6561, ?",
+      "options": [
+        "43046221",
+        "43046721",
+        "43046621",
+        "42046721"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "17. 126, 217, 344, ?",
+      "options": [
+        "470",
+        "614",
+        "513",
+        "688"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "18. 4, 7, 13, 26, 49, 97 (कौन सी संख्या संबंधित नहीं है)",
+      "options": [
+        "97",
+        "13",
+        "26",
+        "49"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "19. 0, 6, 20, 42, ?",
+      "options": [
+        "72",
+        "86",
+        "68",
+        "70"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "20. 7, 14, 56, 448, 2688, 26880 (कौन सी संख्या संबंधित नहीं है)",
+      "options": [
+        "26880",
+        "2688",
+        "56",
+        "448"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "21. 4, 13, 27, 82, 165, ?",
+      "options": [
+        "496",
+        "495",
+        "494",
+        "497"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "22. 6, 7, 11, 20, 36, ?",
+      "options": [
+        "60",
+        "57",
+        "61",
+        "51"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "23. 5, 11, 24, 53, 106, 217 (कौन सी संख्या संबंधित नहीं है)",
+      "options": [
+        "5",
+        "53",
+        "11",
+        "106"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "24. 3, 7, 22, 89, 446, 2677, 18739 (कौन सी संख्या संबंधित नहीं है)",
+      "options": [
+        "446",
+        "2677",
+        "89",
+        "18739"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "25. 2, 14, 84, 422, 1680, 5040, 10080, 10080 (कौन सी संख्या संबंधित नहीं है)",
+      "options": [
+        "422",
+        "5040",
+        "84",
+        "1680"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "26. 5, 7, 14, 36, ?",
+      "options": [
+        "101",
+        "117",
+        "99",
+        "103"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "27. 1, 27, 125, 343, ?",
+      "options": [
+        "999",
+        "625",
+        "216",
+        "729"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "28. 4, 11, 30, 67, 128, ?",
+      "options": [
+        "219",
+        "182",
+        "195",
+        "346"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "29. 3/4, 7/4, 5/4, 9/4, ?",
+      "options": [
+        "7/4",
+        "9/4",
+        "13/4",
+        "5/4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "30. 47, 64, 448, ?, 2315, 2328, 6987",
+      "options": [
+        "459",
+        "463",
+        "461",
+        "465"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "31. 2, 7, 23, 72, 220, ?",
+      "options": [
+        "500",
+        "472",
+        "665",
+        "600"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "32. 2, 4, 3, 3, 9, 6, 4, 16, ?, 5, 25, 15",
+      "options": [
+        "15",
+        "20",
+        "10",
+        "18"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "33. 3, 4, 0, 9, -7, ....",
+      "options": [
+        "8",
+        "18",
+        "7",
+        "-32"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "34. 23, 29, 31, 37, 42, 43, 47 (विषम चुनें)",
+      "options": [
+        "31",
+        "37",
+        "42",
+        "43"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "35. 1, 5, 32, 288, ?",
+      "options": [
+        "3413",
+        "4329",
+        "2754",
+        "2879"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "36. 2, 10, 30, 68, ?, 222",
+      "options": [
+        "130",
+        "103",
+        "120",
+        "110"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "37. 4, 8, 6, 18, 15, 60, 56 ?, ?",
+      "options": [
+        "108, 110",
+        "172, 178",
+        "280, 275",
+        "216, 230"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "38. 1, 12, 124, 1248, 12496, ?",
+      "options": [
+        "124982",
+        "124962",
+        "124992",
+        "124978"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "39. 9, 26, 65, 124, ?",
+      "options": [
+        "214",
+        "216",
+        "215",
+        "217"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "40. 3, 7, 17, 31, 59 (विषम चुनें)",
+      "options": [
+        "7",
+        "59",
+        "31",
+        "17"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "41. 12, 24, 48, 96, 192, 384, ?",
+      "options": [
+        "748.1526",
+        "768.1546",
+        "768.1536",
+        "758.1536"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "42. 40, 48, 41, 16, 42, 8, 43, ?",
+      "options": [
+        "16",
+        "9",
+        "71",
+        "8"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "43. 1 2 5 4 9 8 13 16 17 32 21 (अगले दो पद)",
+      "options": [
+        "48 27",
+        "25 64",
+        "27 48",
+        "64 25"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "44. 0, 2, 9, 28, 65, ...........",
+      "options": [
+        "81",
+        "126",
+        "256",
+        "125"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "45. 3, 7, 13, 21, 31, ?",
+      "options": [
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "46. 6, 25, 62, 123, 214, .........?",
+      "options": [
+        "341",
+        "317",
+        "334",
+        "292"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "47. A__BD_CEB__CEB",
+      "options": [
+        "CDAEAD",
+        "CEADAD",
+        "CADADE",
+        "CDADEA"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "48. ANDR, DKJL, GHPF, JEVZ, ____, PYHN",
+      "options": [
+        "MBTI",
+        "MBBT",
+        "MBBS",
+        "MBCT"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "49. DI, GO, LU, OA, TG, ?",
+      "options": [
+        "WM",
+        "UL",
+        "WL",
+        "YM"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "50. XY_XY__ZXYX__XYXY",
+      "options": [
+        "ZXYYZZXZ",
+        "ZYYYZZXY",
+        "ZXYYZZXY",
+        "YXYYZZXY"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "51. SLU__INGS__ICING__UICIN__LUICI",
+      "options": [
+        "ICLUSLGSNG",
+        "SGCLUSNGSL",
+        "LICUSLGLGN",
+        "SLICLUGNGL"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "52. CML, XJK, SGJ, NDI, ?",
+      "options": [
+        "IBH",
+        "IAH",
+        "HAI",
+        "IBG"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "53. aba_bca_cab_cbc",
+      "options": [
+        "cabb",
+        "cbab",
+        "cbaa",
+        "cbba"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "54. c_bba_cab_ac_ab_ac",
+      "options": [
+        "b, a, b, c, c",
+        "b, c, a, c, b",
+        "a, c, b, c, b",
+        "a, b, c, b, c"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "55. a_bc_a_bcda_ccd_bcd_",
+      "options": [
+        "a, d, b, b, a, d",
+        "a, c, b, d, b, d",
+        "a, d, b, b, d, d",
+        "a, a, b, c, c, d"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "56. bb_cc_bb_ccccc_b",
+      "options": [
+        "b; b; c; c",
+        "b; c; c; b",
+        "c; c; b; b",
+        "c; b; c; b"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "57. bbccdc--ddedd--efeeffgffgg--",
+      "options": [
+        "bdhi",
+        "cehh",
+        "cdhi",
+        "begh"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "58. c_bca-_bc_b",
+      "options": [
+        "abaa",
+        "abbc",
+        "abac",
+        "abcc"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "59. jj___k_j___kkk",
+      "options": [
+        "kjjk",
+        "jkkjj",
+        "jkjkk",
+        "jjkkj"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "60. abb- a-b--bbb",
+      "options": [
+        "bbbb",
+        "abbb",
+        "babb",
+        "bbba"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "61. CJ, FM, ?, LS, OV",
+      "options": [
+        "HL",
+        "IP",
+        "RX",
+        "KQ"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "62. abc--d cde d--e--b",
+      "options": [
+        "d; e; a; b; c",
+        "b; c; e; a; a",
+        "c; d; e; a; c",
+        "d; b; c; e; a; c"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "63. mmnn....pmmnnn.....mmnn.....",
+      "options": [
+        "n, p, m, p, p, m",
+        "n, p, p, m, m, p",
+        "m, p, p, n, p, p",
+        "n, p, p, m, m, p"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "64. BZA, DYC, FXE, HWG, ?",
+      "options": [
+        "KVI",
+        "JUH",
+        "JVH",
+        "JVI"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "65. W S O K ____",
+      "options": [
+        "T",
+        "G",
+        "H",
+        "L"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "66. Y, V, Q, J, ?",
+      "options": [
+        "B",
+        "C",
+        "A",
+        "D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "67. CKV, DLW, EMX, ?",
+      "options": [
+        "FNY",
+        "HNZ",
+        "BOI",
+        "FLP"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "68. DECAB / GJFF_ / KNJJ_ / PQOM_",
+      "options": [
+        "MFJ",
+        "FJM",
+        "EIN",
+        "ENI"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "69. CIL, QDU, PFV, KN?",
+      "options": [
+        "W",
+        "Z",
+        "X",
+        "Y"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "70. ab, cc, ed, ge, ?",
+      "options": [
+        "if",
+        "hf",
+        "gf",
+        "id"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "71. X, U, Q, M, F, Y (विषम चुनें)",
+      "options": [
+        "M",
+        "Q",
+        "Y",
+        "F"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "72. SUMA, ASUM, MASU, ?",
+      "options": [
+        "SAUM",
+        "UMAS",
+        "MAUS",
+        "UASM"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "73. CED, DFE, EGF, FGH, GIH, HJI (विषम चुनें)",
+      "options": [
+        "FGH",
+        "DFE",
+        "CED",
+        "EGF"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "74. ab _, ac _, ade _, ef, a _g",
+      "options": [
+        "c, d, b, f",
+        "b, d, a, f",
+        "c, d, a, f",
+        "a, b, a, b"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "75. ACE, HJL, OQS, ?",
+      "options": [
+        "VWX",
+        "VXZ",
+        "ZXV",
+        "UWY"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "76. ACDF, GIJL, MOPR, ?",
+      "options": [
+        "SVUX",
+        "STVX",
+        "SVTX",
+        "SUVX"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "77. ADGJ, CFIL, ?, GJMP",
+      "options": [
+        "DFIL",
+        "EHKN",
+        "EGIK",
+        "DFHJ"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "78. E, V, H, S, K, Q, N, M (विषम चुनें)",
+      "options": [
+        "Q",
+        "K",
+        "M",
+        "N"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "79. BCA, WVX, FGE, SRT, JKI, ?",
+      "options": [
+        "OPN",
+        "NOM",
+        "ONP",
+        "MNL"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "80. QR _ Q R _ Q _ RRQ",
+      "options": [
+        "QQRQ",
+        "RQQR",
+        "RQRQ",
+        "QRQR"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "81. RAA, ?, PCB, ODB, NEC, MFC",
+      "options": [
+        "PKL",
+        "QBA",
+        "PDB",
+        "QEC"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "82. LB, MC, ?, OG, PK",
+      "options": [
+        "NJ",
+        "NE",
+        "NF",
+        "ND"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "83. CDE, FGH, IJK, LNM (विषम चुनें)",
+      "options": [
+        "FGH",
+        "IJK",
+        "LNM",
+        "CDE"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "84. KL, MO, OR, ?",
+      "options": [
+        "UQ",
+        "SQ",
+        "QT",
+        "QU"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "85. WUT, SQP, ?, KIH, GED",
+      "options": [
+        "LOM",
+        "OML",
+        "MOL",
+        "OLH"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "86. SRT, VUW, YXZ, ?",
+      "options": [
+        "AZB",
+        "BAC",
+        "ABC",
+        "ABZ"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "87. ADGJ, CFIL, EHKN, ..........",
+      "options": [
+        "FILO",
+        "HKNQ",
+        "DGJM",
+        "GJMP"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "88. TUS, QRP, ?, KLJ, HIG",
+      "options": [
+        "ONM",
+        "MNO",
+        "NOM",
+        "ONO"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "89. NG3. PJ6, RM9, TQ12, VS15 (विषम चुनें)",
+      "options": [
+        "TQ12",
+        "VS15",
+        "RM9",
+        "PJ6"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "90. z1, x4, v9, t16, ?",
+      "options": [
+        "s24",
+        "v25",
+        "r25",
+        "t26"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "91. D4R22H8Y15P?",
+      "options": [
+        "7",
+        "24",
+        "20",
+        "18"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "92. 2D, 3I, 4P, ?",
+      "options": [
+        "5Z",
+        "5Y",
+        "5X",
+        "5W"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "93. 70, V, 63, R, 56, O, 49, ?",
+      "options": [
+        "L",
+        "M",
+        "N",
+        "K"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "94. 2B, 4D, 7G, 12L, 19S, 30D, 43Q, ?",
+      "options": [
+        "60H",
+        "60Z",
+        "64S",
+        "63X"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "95. Z5LW, W7OY, T9RB, Q11UF, ?",
+      "options": [
+        "N15YK",
+        "N13XK",
+        "N15ZK",
+        "N13XJ"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "96. E5A, G9C, I17E, K29G, M45I, ?",
+      "options": [
+        "O63K",
+        "O65K",
+        "N65K",
+        "O20K"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "97. D4C3B2A1, H8G7F6E5, L12K11J10I9, ?",
+      "options": [
+        "P16O15N14M13",
+        "P16R15S14T13",
+        "Q17P16O15N14",
+        "M15N16O17P18"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "98. 3, E, 8, L, ?",
+      "options": [
+        "19",
+        "11",
+        "23",
+        "17"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "99. A9B, B125C, C49D, D729E, ...........",
+      "options": [
+        "E121F",
+        "D122G",
+        "E36F",
+        "G221H"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "100. A2B, C12D, E30F, ____, I90J",
+      "options": [
+        "G56H",
+        "G48H",
+        "G49H",
+        "G64H"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "101. G7R18, H8S19, I9T20, ?",
+      "options": [
+        "J10U21",
+        "C2P13",
+        "D3A11",
+        "L4B12"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "102. A5, F11, K24, P51, T105, Z217 (कौन सा पद संबंधित नहीं है)",
+      "options": [
+        "T105",
+        "F11",
+        "Z217",
+        "P51"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "103. A9B, C49D, E121F, ?",
+      "options": [
+        "G125H",
+        "G144I",
+        "G225H",
+        "G150H"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "104. K33K, I24M, G15O, ............ ",
+      "options": [
+        "F15Q",
+        "E06Q",
+        "F06R",
+        "E07Q"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "105. U9Y, R14V, O24S, L44P, ?, F164J",
+      "options": [
+        "J84L",
+        "I84M",
+        "I84N",
+        "I64M"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "106. K 15 S 23 A ? / 11 O 19 W 1 ?",
+      "options": [
+        "5/F",
+        "5/E",
+        "E/5",
+        "6/E"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "107. 1O5, 1P6, 1Q7, ____",
+      "options": [
+        "81R",
+        "8R1",
+        "1R8",
+        "D18"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "108. PE11, QD2, RC9, SB4, ____",
+      "options": [
+        "TA7",
+        "TA6",
+        "RA6",
+        "BA7"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "109. L34E, O46H, R58K, U70N, ?",
+      "options": [
+        "X82P",
+        "X41Q",
+        "X82Q",
+        "X41M"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "110. S-81, Q-64, ?, M-36, K-25",
+      "options": [
+        "M-52",
+        "K-40",
+        "P-42",
+        "O-49"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "111. 3T3, 5S5, 9R7, 12P8, 23P11 (कौन सा पद संबंधित नहीं है)",
+      "options": [
+        "12P8",
+        "23P11",
+        "3T3",
+        "9R7"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "112. 7Y7, 14X9, 23W11, 34V13, 47U15, ?, 79S19",
+      "options": [
+        "64R15",
+        "60T19",
+        "64Q17",
+        "62T17"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "113. 3L12, 5J10, 7H8, 9F6, 11D4, ?",
+      "options": [
+        "13B4",
+        "13B2",
+        "13A6",
+        "9B6"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "114. 3d16, 6e14, 9f12, 12g10, 15h8, ?",
+      "options": [
+        "27i6",
+        "18i6",
+        "18i4",
+        "21i6"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "121. बुध, शुक्र, पृथ्वी, ?",
+      "options": [
+        "शनि",
+        "मंगल",
+        "बृहस्पति",
+        "अरुण"
+      ],
+      "answer": 1
+    }
+  ]
+}
