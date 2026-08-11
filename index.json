@@ -13,14 +13,9 @@
     "ms_office",
     "ms_word",
     "operating_system",
-    "practice_set_1",
-    "practice_set_2",
-    "practice_set_3",
-    "practice_set_4",
-    "practice_set_5",
     "prgm"
   ],
-   "math": [
+  "math": [
     "01_number_system",
     "02_decimal_fraction",
     "03_indices_and_surds",
@@ -50,7 +45,7 @@
     "27_data_interpretation",
     "28_miscellaneous"
   ],
-"reasoning": [
+  "reasoning": [
     "01_analogy",
     "02_coding_decoding",
     "03_classification",
@@ -73,7 +68,7 @@
     "20_dice_cube_cuboid",
     "21_miscellaneous"
   ],
-   "history": [
+  "history": [
     "01_stone_age",
     "02_indus_valley_civilization",
     "03_vedic_culture",
@@ -123,7 +118,7 @@
     "47_cabinet_mission",
     "48_azad_hind_fauj_and_subhash_chandra_bose",
     "49_statements_slogans_titles"
-  ], 
+  ],
   "polity": [
     "01_historical_background",
     "02_constitutional_development",
@@ -175,7 +170,7 @@
     "48_important_cases",
     "49_miscellaneous"
   ],
-   "geography": [
+  "geography": [
     "01_universe_and_solar_system",
     "02_earth",
     "03_latitude_longitude_and_time",
@@ -265,7 +260,7 @@
     "38_budget_highlights",
     "39_important_economic_terms",
     "40_current_economy"
-  ], 
+  ],
   "science_and_technology": [
     "01_development_of_science_and_technology",
     "02_application_of_science_in_daily_life",
@@ -297,8 +292,8 @@
     "28_science_current_affairs",
     "29_important_terms",
     "30_miscellaneous"
-  ], 
-   "environment": [
+  ],
+  "environment": [
     "01_ecology",
     "02_ecosystem",
     "03_biodiversity",
@@ -329,7 +324,7 @@
     "28_sustainable_development",
     "29_environment_current_affairs",
     "30_miscellaneous"
-  ], 
+  ],
   "general_hindi": [
     "01_हिंदी_वर्णमाला",
     "02_वर्ण_विचार",
@@ -365,5 +360,22 @@
     "32_हिंदी_साहित्य",
     "33_प्रमुख_लेखक_एवं_रचनाएँ",
     "34_विविध"
+  ],
+  "practice_set": [
+    "01_practice_set",
+    "02_practice_set",
+    "03_practice_set",
+    "04_practice_set",
+    "05_practice_set",
+    "06_practice_set",
+    "07_practice_set",
+    "08_practice_set",
+    "09_practice_set",
+    "10_practice_set",
+    "11_practice_set",
+    "12_practice_set",
+    "13_practice_set",
+    "14_practice_set",
+    "15_practice_set"
   ]
 }
