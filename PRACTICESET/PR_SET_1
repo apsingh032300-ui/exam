@@ -1,1 +1,1188 @@
-
+{
+  "title": "Practice Test",
+  "duration_minutes": 10,
+  "questions": [
+    {
+      "question": "Which of the following places is famous for painting? / निम्न में से कौन सा स्थल चित्रकला के लिए प्रसिद्ध है?",
+      "options": [
+        "Ajanta / अजन्ता",
+        "Bhimbetka / भीम बेटका",
+        "Tiger / बाघ",
+        "Amravati / अमरावती",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 1
+    },
+    {
+      "question": "Which south Indian dance tradition was firstly developed during the time of Vijaynagar? / विजयनगर काल में दक्षिण भारत की किस नृत्य परम्परा का पहली बार विकास हुआ?",
+      "options": [
+        "Mohiniattam / मोहिनी अट्टम",
+        "Yakshgaan / यक्षगान",
+        "Krishnaattam / कृष्णअट्टम",
+        "Bharatnatyam / भरतनाट्यम",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 2
+    },
+    {
+      "question": "Which newspapers were published by Bal Gangadhar Tilak? / बाल गंगाधर तिलक ने कौन-से समाचार-पत्रों का प्रकाशन किया?",
+      "options": [
+        "Maratha and Kesari / मराठा तथा केसरी",
+        "Yugantar and Yugvarta / युगांतर तथा युगवार्ता",
+        "Kranti and Yugkranti / क्रान्ति तथा युगक्रान्ति",
+        "Hitkari and Yugdharma / हितकारी तथा युगधर्म",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "originalNo": 3
+    },
+    {
+      "question": "At whose demise did Mahatma Gandhi say 'A star from Indian Solar System has eclipsed'? / किसकी मृत्यु पर महात्मा गांधी ने कहा, 'भारतीय सौरमण्डल से एक सितारा डूब गया'?",
+      "options": [
+        "Bal Gangadhar Tilak / बाल गंगाधर तिलक",
+        "Lala Lajpat Rai / लाला लाजपत राय",
+        "Gopal Krishna Gokhale / गोपाल कृष्ण गोखले",
+        "Mahadeva Govind Ranade / महादेव गोविंद रानाडे",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 4
+    },
+    {
+      "question": "Why was 15th August, 1947 was chosen by Lord Mountbatten for transfer of power? / लॉर्ड माउण्टबेटन के द्वारा सत्ता हस्तान्तरण के लिए 15 अगस्त, 1947 का दिन क्यों चुना गया था?",
+      "options": [
+        "This was the birthday of Mountbatten. / यह माउण्टबेटन का जन्म दिवस था।",
+        "This was a pious day in Hindu calendar. / यह हिन्दू कलेंडर का एक पवित्र दिवस था।",
+        "This was the birthday of Clement Atlee. / यह क्लीमेंट एटली का जन्म दिवस था।",
+        "This was the second anniversary of victory of Allied powers over Japan in the Second World War. / यह द्वितीय विश्व युद्ध में मित्र राष्ट्रों की जापान पर विजय की दूसरी वर्षगाँठ थी।",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "originalNo": 5
+    },
+    {
+      "question": "Who among the following was not a member of the Drafting Committee? / निम्नलिखित में से कौन प्रारूप समिति का सदस्य नहीं था?",
+      "options": [
+        "Saiyad Mohammad Saadulla / सैयद मोहम्मद सादुल्ला",
+        "Alladi Krishnaswami Ayyar / अलादि कृष्णस्वामी अय्यन",
+        "Dr. Rajendra Prasad / डॉ. राजेन्द्र प्रसाद",
+        "B.L. Mittra / बी.एल. मित्रा",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "originalNo": 6
+    },
+    {
+      "question": "The eleventh schedule of the Constitution of India provides for / भारत के संविधान की ग्यारहवीं अनुसूची उपबंधति करती है:",
+      "options": [
+        "Election / निर्वाचन",
+        "Reorganization of J&K / जम्मू और कश्मीर का पुनर्गठन",
+        "Panchayat Raj / पंचायती राज",
+        "Languages / भाषाएं",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "originalNo": 7
+    },
+    {
+      "question": "The 'Golden Triangle' of the Indian constitution refers to which of the following Articles? / भारतीय संविधान के निम्न में से कौन से अनुच्छेद को 'स्वर्ण त्रिभुज' कहा जाता है?",
+      "options": [
+        "11, 12, 13",
+        "16, 17, 18",
+        "14, 19, 21",
+        "18, 19, 20",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "originalNo": 8
+    },
+    {
+      "question": "What is the main function of Public Accounts Committee? / लोक लेखा समिति का मुख्य कार्य क्या है?",
+      "options": [
+        "To examine CAG Annual Reports / नियंत्रक महालेखा परीक्षक (कैट) के वार्षिक प्रतिवेदनों की जाँच करना।",
+        "To interfere in day-to-day activities of government / सरकार की दैनिक गतिविधियों में हस्तक्षेप करना।",
+        "To give recommendation of the Prime Minister / प्रधानमंत्री को सुझाव देना।",
+        "To pass orders / आदेश पारित करना।",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "originalNo": 9
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched? / निम्नलिखित में से कौन सा युग्म सही सुमेलित है?",
+      "options": [
+        "Writ of Habeas Corpus - (1) issued only to the State / बन्दी प्रत्यक्षीकरण याचिका - केवल राज्य को जारी की जाती है",
+        "Writ of Mandamus - (2) issued to the public servant / परमादेश याचिका - लोक सेवक को जारी की जाती है",
+        "Writ of Quo-Warranto - (3) issued to the subordinate courts / अधिकार पृच्छा याचिका - अधीनस्थ न्यायालयों को जारी की जाती है",
+        "Write the Prohibition - (4) issued to the private individuals / निषेध याचिका - निजी व्यक्ति को जारी की जाती है",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 10
+    },
+    {
+      "question": "Fiji Islands lie in / फजी द्वीप जिस महाद्वीप में स्थित है, वह है-",
+      "options": [
+        "Asia / एशिया",
+        "Africa / अफ्रीका",
+        "Australia / ऑस्ट्रेलिया",
+        "America / अमेरिका",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "originalNo": 11
+    },
+    {
+      "question": "Which plateau lies between the Aravali and the Vindhya ranges? / कौन सा पठार अरावली एवं विन्ध्य श्रेणियों के मध्य स्थित है?",
+      "options": [
+        "Malwa / मालवा",
+        "Chhota Nagpur / छोटा नागपुर",
+        "Deccan / दक्कन",
+        "Bundelkhand / बुन्देलखण्ड",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "originalNo": 12
+    },
+    {
+      "question": "India's third research station in Antarctica is / अंटार्कटिका में भारत के तीसरे शोध संस्थान का नाम है-",
+      "options": [
+        "Gangotri / गंगोत्री",
+        "Maitry / मैत्री",
+        "Shaurya / शौर्य",
+        "Bharti / भारती",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "originalNo": 13
+    },
+    {
+      "question": "Which among of the following animal is called as 'Ploughers of the soil'? / निम्नलिखित में से किस जन्तु को भूमि का कृषक (जोतने वाला) कहा जाता है?",
+      "options": [
+        "Earthworm / केंचुआ",
+        "Snake / सांप (सांप)",
+        "Frog / मेढ़क",
+        "Rabbit / खरगोश",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "originalNo": 14
+    },
+    {
+      "question": "Helsinki is the capital of / जिस देश की राजधानी हेल्सिंकी है, वह है",
+      "options": [
+        "Denmark / डेनमार्क",
+        "Sweden / स्वीडन",
+        "Norway / नॉर्वे",
+        "Finland / फिनलैंड",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "originalNo": 15
+    },
+    {
+      "question": "What is nanotechnology used for in agriculture? / नैनो टेक्नोलॉजी का कृषि में उपयोग किस लिए होता है?",
+      "options": [
+        "Nano fertilizer / नैनो उर्वरक",
+        "Insecticide / कीटनाशक",
+        "Crop protection / फसल सुरक्षा",
+        "All of the above / उपरोक्त सभी",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "originalNo": 16
+    },
+    {
+      "question": "What is the name of the bacteria that causes TB (Tuberculosis)? / TB (क्षय रोग) के कारक जीवाणु का नाम क्या है?",
+      "options": [
+        "Mycobacterium tuberculosis / माइकोबैक्टीरियम ट्यूबरकुलोसिस",
+        "Streptococcus / स्ट्रेप्टोकॉकस",
+        "Escherichiacoli / एस्चेरिचियाकोली",
+        "Salmonella / साल्मोनेला",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "originalNo": 17
+    },
+    {
+      "question": "Which is the most commonly used as a vector in biotechnology? / जैव प्रौद्योगिकी में वेक्टर के सबसे अधिक प्रयोग होता है?",
+      "options": [
+        "Plasmid / प्लाज्मड",
+        "Cosmid / कॉस्मिड",
+        "BAC / बीएसी",
+        "YAC / वाईएसी",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "originalNo": 18
+    },
+    {
+      "question": "Credit for research and development of space science goes to- / अंतरिक्ष विज्ञान एवं अनुसंधान और विकास का श्रेय जाता है-",
+      "options": [
+        "S.S. Bhatnagar / एस.एस. भटनागर को",
+        "V.Sarabhai / वा.सार.भाई को",
+        "S.Z. Kassim / एस.जेड. कासिम को",
+        "C.V. Raman / सी.वी. रमन को",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 19
+    },
+    {
+      "question": "Consider the following statements for Nano-technology- / नैनो-प्रौद्योगिकी के लिए निम्नलिखित कथनों पर विचार कीजिए- 1. It is the technology of creating materials and devices atom-by-atom. / यह परमाणु-दर-परमाणु पदार्थों और युक्तियों के निर्माण की प्रौद्योगिकी है। 2. Physical properties change at the nanometer scale. / भौतिक गुणधर्मों में नैनोमीटर पैमाने पर बदलाव होता है। 3. Chemical properties change at the nanometer scale. / रासायनिक गुणधर्मों में नैनोमीटर पैमाने पर बदलाव होता है। Which of the above statements are correct? / उपर्युक्त कथनों में से कौन-से सही हैं?",
+      "options": [
+        "1 and 2 only / केवल 1 और 2",
+        "1 and 3 only / केवल 1 और 3",
+        "2 and 3 only / केवल 2 और 3",
+        "1, 2 and 3 / 1, 2 और 3",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "originalNo": 20
+    },
+    {
+      "question": "With reference to the sectors of the Indian economy, consider the following pairs: / भारतीय अर्थव्यवस्था के सेक्टरों के संदर्भ में, निम्नलिखित युग्मों पर विचार कीजिए- 1. Storage of agricultural produce / कृषि उत्पाद का भंडारण -> Secondary / द्वितीयक 2. Dairy farm / डेरी फार्म -> Primary / प्राथमिक 3. Mineral exploration / खनिज की खोज -> Tertiary / तृतीयक 4. Weaving cloth / कपड़ा बुनाई -> Secondary / द्वितीयक How many of the above are correctly matched? / उपर्युक्त युग्मों में से कितने सही सुमेलित हैं?",
+      "options": [
+        "Only one / केवल एक",
+        "Only two / केवल दो",
+        "Only three / केवल तीन",
+        "All four / सभी चार",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 21
+    },
+    {
+      "question": "Which one of the following is not an objective of food management in India? / भारत में खाद्य प्रबंधन का निम्न में से कौन-सा एक उद्देश्य नहीं है?",
+      "options": [
+        "Distribution of food grains / खाद्यान्नों का वितरण",
+        "Procurement of food grains / खाद्यान्नों की खरीद",
+        "Maintenance of food grains buffer stock / खाद्यान्नों के बफर स्टॉक का रखरखाव",
+        "Export of food grains / खाद्यान्नों का निर्यात",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "originalNo": 22
+    },
+    {
+      "question": "In which year was Tata Engineering and Locomotive Company (TELCO) established in Jamshedpur? / जमशेदपुर में टाटा अभियंत्रण एवं लोकोमोटिव कम्पनी (TELCO) की स्थापना कब हुई?",
+      "options": [
+        "1907",
+        "1945",
+        "1951",
+        "1960",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 23
+    },
+    {
+      "question": "What would be the impact on the economy if people start holding more currency in hand and less in deposits? / यदि लोग मुद्रा को हाथ में अधिक रखना और जमा कम करना शुरू कर देते हैं, तो अर्थव्यवस्था पर क्या प्रभाव पड़ेगा?",
+      "options": [
+        "Money demand will increase / मुद्रा की माँग में वृद्धि होगी",
+        "Money multiplier will decrease / मुद्रा गुणक (मनी मल्टीप्लायर) कम हो जावेगा",
+        "Money multiplier will increase / मुद्रा गुणक (मनी मल्टीप्लायर) में वृद्धि होगी",
+        "Money demand will decrease / मुद्रा की माँग घट जाएगी",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 24
+    },
+    {
+      "question": "Which of the following is not part of the \"Second- generation of Economic Reforms\" identified by the Government? / निम्न में से कौन \"आर्थिक सुधारों के लिए द्वितीय पीढ़ी\" में सरकार द्वारा चिन्हित किए गए हैं, का भाग नहीं है?",
+      "options": [
+        "Oil-Sector Reforms / तेल के क्षेत्र में सुधार",
+        "Public Sector Reforms / सार्वजनिक क्षेत्र में सुधार",
+        "Legal System Reforms / न्यायिक प्रणाली में सुधार",
+        "Reform of Government and Public Institutions / शासकीय एवं सार्वजनिक संस्थाओं के सुधार",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "originalNo": 25
+    },
+    {
+      "question": "Measure of human demand on the Earth's ecosystems is / पृथ्वी के पारिस्थितिकी तंत्रों पर मानवीय मांग का माप क्या है?",
+      "options": [
+        "Niche / स्थान",
+        "Ecological footprint / पारिस्थितिक पदचिन्ह",
+        "Ecotone / इकोटोन",
+        "Biome / बायोम",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 26
+    },
+    {
+      "question": "Which one of the following is the correct sequence of ecosystems in the order of decreasing productivity? / पारिस्थितंतों की घटती उत्पादकता (Decreasing Productivity of Ecosystems) के क्रम में निम्नलिखित में से कौन-सा अनुक्रम सही है?",
+      "options": [
+        "Oceans, lakes, grasslands, mangroves / महासागर, झील, घासस्थल, मैंग्रोव",
+        "Mangroves, oceans, grasslands, lakes / मैंग्रोव, महासागर, घासस्थल, झील",
+        "Mangroves, grasslands, lakes, oceans / मैंग्रोव, घासस्थल, झील, महासागर",
+        "Oceans, mangroves, lakes, grasslands / महासागर, मैंग्रोव, झील, घासस्थल",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "originalNo": 27
+    },
+    {
+      "question": "Tadoba Andhari Tiger Reserve is famed wildlife destination of / ताडोबा अंधारी टाइगर रिजर्व का प्रसिद्ध वन्यजीव गंतव्य है।",
+      "options": [
+        "Kerala / केरल",
+        "Madhya Pradesh / मध्य प्रदेश",
+        "Maharashtra / महाराष्ट्र",
+        "Arunachal Pradesh / अरुणाचल प्रदेश",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "originalNo": 28
+    },
+    {
+      "question": "Which one of the following Union Ministries implements the Cartagena Protocol on Biosafety? / जैव-सुरक्षा (बायो-सेफ्टी) का कार्टाजेना प्रोटोकॉल निम्नलिखित केन्द्रीय मंत्रालयों में से कौन कार्यान्वित करता है?",
+      "options": [
+        "Ministry of Science and Technology / विज्ञान एवं प्रौद्योगिकी मंत्रालय",
+        "Ministry of Health and Family Welfare / स्वास्थ्य एवं परिवार कल्याण मंत्रालय",
+        "Ministry of Environment and Forests / पर्यावरण एवं वन मंत्रालय",
+        "Ministry of Chemicals and Fertilizers / रसायन एवं उर्वरक मंत्रालय",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "originalNo": 29
+    },
+    {
+      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists: / सूची-I को सूची-II से सुमेलित कीजिए और सूचियों के नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए: List-I (International Convention) / सूची-I (अंतर्राष्ट्रीय कन्वेंशन) A. Stockholm Convention / स्टॉकहोम कन्वेंशन B. Minamata Convention / मिनामाता कन्वेंशन C. Basel Convention / बेसल कन्वेंशन List-II (Theme) / सूची-II (विषय) 1. Hazardous chemicals and pesticides in international trade / खतरनाक रसायन और पीड़कनाशी 2. Persistent organic pollutants / दीर्घस्थानीय जैव प्रदूषण 3. Binding instrument on mercury / पारद पर आबद्धकर लिखत",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "NONE OF THESE"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "originalNo": 30
+    },
+    {
+      "question": "Which of the following statements are true? / निम्न में से कौन-से कथन सत्य हैं?",
+      "options": [
+        "Drought is an atmospheric natural disaster / सूखा एक वायुमंडलीय प्राकृतिक आपदा है।",
+        "The Bhopal gas tragedy was man-made / भोपाल गैस त्रासदी मानव-निर्मित थी।",
+        "India is a disaster prone country / भारत आपदा-युक्त देश है।",
+        "Mangroves reduce the impact of cyclones. / मैंग्रोव चक्रवातों का प्रभाव कम करते हैं।",
+        "1, 2, 3",
+        "2, 3, 4",
+        "1, 3, 4",
+        "All / सभी",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "originalNo": 31
+    },
+    {
+      "question": "NDRF personnel join which force? / NDRF के जवान किस बल के लिए जाते हैं?",
+      "options": [
+        "Army / सेना",
+        "Central Armed police Forces (CAPFs) / केन्द्रीय सशस्त्र पुलिस बल (CAPFs)",
+        "State police / राज्य पुलिस",
+        "Home guards / होमगार्ड्स",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 32
+    },
+    {
+      "question": "How many types of drought are there based on the conditions and circumstances? / दशा एवं स्थिति के आधार पर सूखे के कितने प्रकार हैं?",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "4",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "originalNo": 33
+    },
+    {
+      "question": "Consider the following statements and choose the correct answer from the codes.-नीचे दिए गए कथनों पर विचार करें एवं कूट से सही उत्तर का चयन कीजिए - Assertion: Natural environment is clean. कथन (A): प्राकृतिक पर्यावरण स्वच्छ होता है। Reason: Human activities are responsible for environmental pollution. कारण (R): मानव क्रियाएँ पर्यावरणीय प्रदूषण का कारण हैं। Code: / कूट:",
+      "options": [
+        "(A) and (R) both are correct and R is the correct explanation of A./(A) एवं (R) दोनों सही हैं तथा R, A की सही व्याख्या है",
+        "(A) and (R) both are correct and R is not the correct explanation of A./(A) एवं (R) दोनों सही हैं परन्तु R, A की सही व्याख्या नहीं है",
+        "(A) is true but (R) is false",
+        "सही है, परन्तु (R) गलत है",
+        "(A) is false but (R) is true",
+        "गलत है, परन्तु (R) सही है",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 34
+    },
+    {
+      "question": "International Tiger Day is celebrated on - अंतर्राष्ट्रीय 'टाइगर दिवस' मनाया जाता है -",
+      "options": [
+        "24 July / 24 जुलाई को",
+        "29 July / 29 जुलाई को",
+        "20 July / 20 जुलाई को",
+        "25 July / 25 जुलाई को",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 35
+    },
+    {
+      "question": "When was ISRO (Indian space research Organisation) established? / ISRO (भारतीय अंतरिक्ष अनुसंधान संगठन) की स्थापना कब हुई थी?",
+      "options": [
+        "1962",
+        "1969",
+        "1975",
+        "1980",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 36
+    },
+    {
+      "question": "Which theory was discovered by Satyendra Nath Bose and is known as Bose-Einstein statistics? / सत्येंद्र नाथ बोस ने किस सिद्धांत की खोज की जिसे बोस-आइंस्टीन सांख्यिकी कहा जाता है?",
+      "options": [
+        "The quantum nature of light / प्रकाश की क्वांटम प्रकृति",
+        "Bason Particles / बोसॉन कण",
+        "Gravity / गुरुत्वाकर्षण",
+        "Atomic Structure / परमाणु संरचना",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 37
+    },
+    {
+      "question": "What is meant Dual use technology? / द्वianुपयोगी प्रौद्योगिकी (Dual Use Technology) से क्या तात्पर्य है?",
+      "options": [
+        "Technology for military use only / केवल सैन्य उपयोग वाली तकनीक",
+        "Technology that can be used for both civilian and military purposes / ऐसी तकनीक जो नागरिक और सैन्य दोनों उद्देश्यों के लिए प्रयोग की जा सकती है।",
+        "Technology for medical use only / केवल चिकित्सा क्षेत्र की तकनीक",
+        "Environmental protection Technology / पर्यावरण संरक्षण तकनीक",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 38
+    },
+    {
+      "question": "What are INSAT series satellites primarily used for? / INSAT सीरीज उपग्रह मुख्य रूप से किसके लिए उपयोग होते हैं?",
+      "options": [
+        "Communications and weather monitoring / संचार और मौसम निगरानी",
+        "Military use only / केवल सैन्य उपयोग",
+        "Moon Studies / चंद्रमा अध्ययन",
+        "Mars Mission / मंगल मिशन",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "originalNo": 39
+    },
+    {
+      "question": "What does Project-75i refer to? / प्रोजेक्ट-75i किससे संबंधित है ?",
+      "options": [
+        "Stealth frigates / स्टील्थ फ्रिगेट्स",
+        "Diesel-Electric submarines / डीजल-इलेक्ट्रिक पनडुब्बियाँ",
+        "Aircraft carriers / एयरक्राफ्ट कैरियर",
+        "Ballistic Missiles / बैलिस्टिक मिसाइल",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 40
+    },
+    {
+      "question": "Who became the first woman Chief secretary of west Bengal in 2026? / जनवरी 2026 में पश्चिम बंगाल की पहली महिला मुख्य सचिव कौन बनी?",
+      "options": [
+        "Nandini Chakraverty / नंदिनी चक्रवर्ति",
+        "Kamya Karthikeyan / काम्या कार्तिकेयन",
+        "Vanshika Choudhary / वंशिका चौधरी",
+        "Avani Gandalia / अवनी गंडालिया",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "originalNo": 41
+    },
+    {
+      "question": "Where was the Country's first AI clinic inaugurated in January 2026? / जनवरी 2026 में देश के पहले AI क्लीनिक की शुरुआत कहां की गई?",
+      "options": [
+        "Lucknow / लखनऊ",
+        "Greater Noida / ग्रेटर नोएडा",
+        "New Delhi / नई दिल्ली",
+        "Mumbai / मुंबई",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 42
+    },
+    {
+      "question": "Which State is the first to constitute the $8^{\\text{th}}$ State pay commission? / 8 वां राज्य वेतन आयोग गठित करने वाला देश का पहला राज्य कौन-सा है?",
+      "options": [
+        "Uttar Pradesh / उत्तर प्रदेश",
+        "Assam / असम",
+        "Bihar / बिहार",
+        "Kerala / केरल",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 43
+    },
+    {
+      "question": "On what occasion is Somnath Swabhiman festival Celebrated? / सोमनाथ स्वाभिमान पर्व किस उपलक्ष में मनाया जाता है?",
+      "options": [
+        "Invasion of Mahmud Ghaznavi / महमूद गजनवी का आक्रमण",
+        "Discovery of Jyotirlinga / ज्योतिलिंग की खोज",
+        "Establishment of Gir Somnath district / गिर सोमनाथ जिले की स्थापना",
+        "Construction of Somnath Temple / सोमनाथ मन्दिर का निर्माण",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "originalNo": 44
+    },
+    {
+      "question": "In January 2026, the foundation stone for which bridge was laid to connect West Bengal with Sagar Island? / जनवरी 2026 में पश्चिम बंगाल को सागर द्वीप से जोड़ने के लिए किस पुल की आधारशिला रखी गई?",
+      "options": [
+        "Hooghly / हुगली",
+        "Gangasagar / गंगासागर",
+        "Muriganga / मुरीगंगा",
+        "Kapil Muni / कपिल मुनि",
+        "None of the above / उपरोक्त में से कोई नहीं",
+        "Instruction: (46-50)",
+        "निर्देश: 46-50",
+        "Study the pie chart and answer the given questions.",
+        "पाई चार्ट का अध्ययन करें और दिए गए प्रश्नों के उत्तर दें।",
+        "Estimated market share of major players in September 2015.",
+        "सितंबर 2015 में प्रमुख दिग्गजों की अनुमानित बाजार हिस्सेदारी"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 45
+    },
+    {
+      "question": "निम्नलिखित में से कौन-सा पत्र औपचारिक पत्र नहीं है?",
+      "options": [
+        "पुस्तकें मंगवाने के लिए पुस्तक विक्रेता को लिखा जाने वाला पत्र",
+        "अंकतालिका की नई प्रति प्राप्त करने के लिए केन्द्रीय माध्यमिक शिक्षण बोर्ड को लिखा जाने वाला पत्र",
+        "अवकाश के लिए विद्यालय-प्राचार्य को लिखा गया आवेदन पत्र",
+        "कक्षा में प्रथम स्थान प्राप्त करने वाले पुत्र के लिए पिता द्वारा लिखा जाने वाला बधाई पत्र",
+        "उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "originalNo": 56
+    },
+    {
+      "question": "भाषा की सबसे छोटी इकाई को क्या कहा जाता है?",
+      "options": [
+        "वर्ण",
+        "उच्चारण",
+        "पद",
+        "शब्द",
+        "उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "originalNo": 57
+    },
+    {
+      "question": "'सन्धि' के कितने भेद होते हैं?",
+      "options": [
+        "एक",
+        "दो",
+        "तीन",
+        "चार",
+        "उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "originalNo": 58
+    },
+    {
+      "question": "तत्सम तद्भव का असंगत युग्म है।",
+      "options": [
+        "स्वर्ण - सोना",
+        "जिह्वा - जीभ",
+        "कोयल - कोकिल",
+        "क्षार - खार",
+        "उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "originalNo": 59
+    },
+    {
+      "question": "निम्नलिखित में से किस शब्द की वर्तनी सही है?",
+      "options": [
+        "अनुग्रहित",
+        "कनिष्ठ",
+        "उन्नती",
+        "ज्योत्स्ना",
+        "उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "originalNo": 60
+    },
+    {
+      "question": "'राम ने कहा कि मैं पहूँगा' वाक्य में 'कि मैं पहूँगा' है-",
+      "options": [
+        "संज्ञा उपवाक्य",
+        "विशेषण उपवाक्य",
+        "क्रिया विशेषण",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "originalNo": 61
+    },
+    {
+      "question": "दिए गए वाक्य में उपयुक्त विराम चिन्ह का चयन कीजिए। अनिल घर आया थोड़ी देर रुका और चला गया।",
+      "options": [
+        ":",
+        ";",
+        ",",
+        ":-",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "originalNo": 62
+    },
+    {
+      "question": "'कंगाली में आटा गीला' लोकोक्ति का सटीक अभिप्राय है:",
+      "options": [
+        "गरीबी में रहना",
+        "कष्ट पर कष्ट आना",
+        "रोजगार न मिलना",
+        "आटा कम और पानी ज्यादा",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 63
+    },
+    {
+      "question": "'ने' किस कारक का चिन्ह है?",
+      "options": [
+        "कर्त्ता",
+        "कर्म",
+        "करण",
+        "संप्रदान",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "originalNo": 64
+    },
+    {
+      "question": "इनमें से 'अनभिज्ञ' शब्द का विलोम कौन-सा है?",
+      "options": [
+        "अज्ञ",
+        "भिज्ञ",
+        "अविज्ञ",
+        "अभिज्ञ",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "originalNo": 65
+    },
+    {
+      "question": "Which of the following is the processing unit of the computer? / निम्नलिखित में से कंप्यूटर की प्रोसेसिंग यूनिट कौन-सी है?",
+      "options": [
+        "CPU",
+        "memory",
+        "Graphic Card",
+        "mother board",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "originalNo": 66
+    },
+    {
+      "question": "Transistors belong to the following generation of the computers? / ट्रांजिस्टर का संबंध कम्प्यूटर की किस पीढ़ी से है?",
+      "options": [
+        "First / पहली",
+        "Fourth / चौथी",
+        "Second / दूसरी",
+        "Third / तीसरी",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "originalNo": 67
+    },
+    {
+      "question": "What does E stand for in IMEI codes of mobile phones? / मोबाइल फोनों के IMEI कोड में E क्या है?",
+      "options": [
+        "Engage / एंगेज",
+        "Equipment / इक्विपमेंट",
+        "Electronic / इलेक्ट्रॉनिक",
+        "Ethical / एथिकल",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 68
+    },
+    {
+      "question": "Another name for lazy learning algorithm is: / लेजी लर्निंग एल्गोरिथ्म का दूसरा नाम है-",
+      "options": [
+        "K-Nearest Neighbor / के नियरेस्ट नेबर",
+        "Regression / रिग्रेशन",
+        "Classification / क्लासिफिकेसन",
+        "Neural Networks / न्यूरल नेटवर्क्स",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "originalNo": 69
+    },
+    {
+      "question": "Laser technology is not used in ...................... / ...................... में लेजर तकनीक (LASER technology) का प्रयोग नहीं किया जाता।",
+      "options": [
+        "बारकोड रीडिंग (Barcode reading)",
+        "कटिंग और ड्रिलिंग (Cutting and drilling)",
+        "माइक्रोवेव ओवन (Microwave oven)",
+        "फिजियोथेरेपी (Physiotherapy)",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "originalNo": 70
+    },
+    {
+      "question": "Who has created LISP, the Programming Language for Artificial Intelligence? / आर्टिफिशयल इंटेलिजेंस के लिए प्रोग्रामिंग भाषा, LISP को किसने विकसित किया?",
+      "options": [
+        "Grace Hopper / ग्रेस हॉपर",
+        "John McCarthy / जॉन मैकार्थी",
+        "Charles Bachman / चार्ल्स बाचमैन",
+        "Leslie Lamport / लेस्ली लैम्पपोर्ट",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 71
+    },
+    {
+      "question": "In Computer terminology, what is the full form of IDN? / कंप्यूटर शब्दावली में, IDN का पूर्ण रूप क्या है ?",
+      "options": [
+        "Internal Digital Networks / इंटरनल डिजिटल नेटवर्क्स",
+        "Internationalized Domain Name / इंटरनेशनललाइज्ड डोमेन नेम",
+        "Intertwined Disc Networks / इंटरविंड डिस्क नेटवर्क्स",
+        "Input Distributed Networks / इनपुट डिस्ट्रीब्यूटेड नेटवर्क",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 72
+    },
+    {
+      "question": "Which of the following services allows internet users to talk across the internet to any PC, equipped to receive the call? / निम्नलिखित में से कौन-सी सेवा इंटरनेट उपयोगकर्ताओं को कॉल प्राप्त करने के लिए सुसज्जित किसी भी पीसी से इंटरनेट पर बात करने की अनुमति देती है।",
+      "options": [
+        "Electronic mail / इलेक्ट्रॉनिक मेल",
+        "Electronic message / इलेक्ट्रॉनिक मैसेज",
+        "Internet telephony (VoIP) / इंटरनेट टेलीफोनी",
+        "Instant messaging / इन्स्टेंट मैसेजिंग",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "originalNo": 73
+    },
+    {
+      "question": "What is the shortcut key to open the 'Font' dialogue box in MS-Word? / एमएस वर्ड में, फॉंट डॉयलॉग बॉक्स ओपन करने के लिए शॉर्ट कुंजी क्या है?",
+      "options": [
+        "Alt+F",
+        "Ctrl+D",
+        "Ctrl+D (Alt+D)",
+        "Ctrl+F",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "originalNo": 74
+    },
+    {
+      "question": "Which among the following method can be used to right align a text? / निम्नलिखित विधि में से कौन-सा तरीका दाएं संरेखित करने के लिए इस्तेमाल किया जा सकता है?",
+      "options": [
+        "Ctrl + I",
+        "Ctrl + Z",
+        "Ctrl + J",
+        "Ctrl + R",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "originalNo": 75
+    },
+    {
+      "question": "Verification of a login name and password on a computer is known as......... / कंप्यूटर पर लॉगिन नाम और पासवर्ड के सत्यापन को किस रूप में जाना जाता है?",
+      "options": [
+        "Authentication / प्रमाणीकरण (ऑथेंटिकेशन)",
+        "Synchronization / समक्रमण (सिंक्रोनाइजेशन)",
+        "Identification / अभिनिर्धारण (आइडेंटिफिकेशन)",
+        "Accessibility / अभिगम्यता (एक्सेसिबिलिटी)",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "originalNo": 76
+    },
+    {
+      "question": "Which of the following is an example of a spreadsheet? / निम्नलिखित में से कौन सा स्प्रेडशीट का एक उदाहरण है?",
+      "options": [
+        "Microsoft Excel / माइक्रोसॉफ्ट एक्सेल",
+        "Microsoft Outlook / माइक्रोसॉफ्ट आउटलुक",
+        "Microsoft PowerPoint / माइक्रोसॉफ्ट पॉवरपॉइंट",
+        "Microsoft Word / माइक्रोसॉफ्ट वर्ड",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "originalNo": 77
+    },
+    {
+      "question": "Who invented E-Mail? / ई-मेल का आविष्कार किसने किया?",
+      "options": [
+        "Tim Berners-Lee / टिम बर्नर्स ली",
+        "James Gosling / जेम्स गोस्लिंग",
+        "Vinton Cerf / विन्टन सर्फ",
+        "Ray Tomlinson / रे टॉमलिंसन",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "originalNo": 78
+    },
+    {
+      "question": "Android is an operating system based on / एंड्राइड्स ऑपरेटिंग सिस्टम किस पर आधारित है?",
+      "options": [
+        "Windows",
+        "Linux",
+        "IBM",
+        "MS-Word",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 79
+    },
+    {
+      "question": "Which of the following is the basic function of a computer? / निम्नलिखित में से कम्प्यूटर का मूल कार्य है?",
+      "options": [
+        "input / इनपुट",
+        "storage / स्टोरेज",
+        "processing / प्रोसेसिंग",
+        "All of these / इनमें से सभी",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "originalNo": 80
+    },
+    {
+      "question": "Which of the following was the most Illiterate district of Uttar Pradesh as per the Census of 2011? / 2011 की जनगणना के अनुसार, उत्तर प्रदेश का सबसे कम साक्षर जनपद कौन-सा था?",
+      "options": [
+        "Ghaziabad / गाजियाबाद",
+        "Kanpur Nagar / कानपुर नगर",
+        "Shravasti / श्रावस्ती",
+        "Jaunpur / जौनपुर",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "originalNo": 81
+    },
+    {
+      "question": "Match the following: / निम्नलिखित को मिलाएँ- Dam / बाँध 1. Govind Ballabh Pant Sagar Dam / गोविंद वल्लभ पंत सागर बाँध 2. Parichha Dam / परीक्षा बाँध 3. Govind Sagar Dam / गोविंद सागर बाँध 4. Kalagarh Dam / कालागढ़ बाँध River / नदी a. Ramganga River / रामगंगा नदी b. Rihand River / रिहंद नदी c. Betwa River / बेतवा नदी d. Shahzad River / शहजाद नदी Code: / कूट:",
+      "options": [
+        "b, c, d, a",
+        "a, b, c, d",
+        "b, d, a, c",
+        "d, b, a, c",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "originalNo": 82
+    },
+    {
+      "question": "Which among the following pairs is incorrect regarding authors and their work? / लेखकों और उनकी कृतियों/रचनाओं के संबंध में निम्नलिखित में से कौन-सा जोड़ा गलत है?",
+      "options": [
+        "Surdas-Ashta Sura / सूरदास - अष्ट सूर",
+        "Mahadevi Verma-Kshanada / महादेवी वर्मा-क्षणदा",
+        "Jaishankar Prasad-Prem Pathik / जयशंकर प्रसाद-प्रेम पथिक",
+        "Maithilisharan Gupt-Tillottama / मैथिलीशरण गुप्त - तिलोत्तमा",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "originalNo": 83
+    },
+    {
+      "question": "Where is Bharatkhande Music Institute University located in Uttar Pradesh? / भारतखण्डे संगीत संस्थान विश्वविद्यालय उत्तर प्रदेश में कहाँ स्थित है?",
+      "options": [
+        "Lucknow / लखनऊ",
+        "Kanpur / कानपुर",
+        "Noida / नोएडा",
+        "Barabanki / बाराबंकी",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "originalNo": 84
+    },
+    {
+      "question": "After the decline of the Mughal Empire, which power controlled the city of Agra before it was taken over by the British in 1803? / मुगल साम्राज्य के पतन के बाद, 1803 में अंग्रेजों द्वारा आगरा शहर पर कब्जा करने से पहले किस सत्ता का नियंत्रण था?",
+      "options": [
+        "Afghans / अफगान",
+        "Marathas / मराठा",
+        "Sikhs / सिख",
+        "Rajputs / राजपूत",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 85
+    },
+    {
+      "question": "Which initiative by the Uttar Pradesh Government focuses on planting trees to mitigate pollution? / उत्तर प्रदेश सरकार की कौन-सी पहल प्रदूषण को कम करने के लिए पेड़ लगाने पर केंद्रित है?",
+      "options": [
+        "Uttar Pradesh Green Project / उत्तर प्रदेश ग्रीन प्रोजेक्ट",
+        "Clean Air Uttar Pradesh / स्वच्छ वायु उत्तर प्रदेश",
+        "Uttar Pradesh Pollution Control / उत्तर प्रदेश प्रदूषण नियंत्रण",
+        "Green UP, Clean UP / ग्रीन यूपी, क्लीन यूपी",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "originalNo": 86
+    },
+    {
+      "question": "Kaushambi is a part of / कौशांबी ............... का एक हिस्सा है।",
+      "options": [
+        "Merrut Division / मेरठ डिवीजन",
+        "Lucknow Division / लखनऊ डिवीजन",
+        "Prayagraj Division / प्रयागराज डिवीजन",
+        "Mirjapur Division / मिर्जापुर डिवीजन",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "originalNo": 87
+    },
+    {
+      "question": "The Chandayan, an important Awadhi Sufi work by Mulla Daud, narrates the story of which legendary lovers? / चंदायन, मुल्ला दाउद की एक महत्त्वपूर्ण अवधी सूफी कृति, किन प्रसिद्ध प्रेमियों की कहानी बताती है?",
+      "options": [
+        "Lorik-Chanda / लोरिक-चंदा",
+        "Heer-Ranjha / हीर-रांझा",
+        "Nala-Damayanti / नल-दमयंती",
+        "Laila-Majnu / लैला-मजनू",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "originalNo": 88
+    },
+    {
+      "question": "How many members are there in Uttar Pradesh Vidhan Sabha? / उत्तर प्रदेश विधान सभा में कितने सदस्य हैं?",
+      "options": [
+        "543",
+        "288",
+        "213",
+        "404",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "originalNo": 89
+    },
+    {
+      "question": "With the aim of doubling the income of farmers which government has launched 'Kisan Kalyan Mission'? / जिस प्रदेश सरकार ने, किसानों की आय दोगुनी करने के लिये 'किसान कल्याण मिशन' शुरू किया, वह प्रदेश है :",
+      "options": [
+        "Uttar Pradesh / उत्तर प्रदेश",
+        "Bihar / बिहार",
+        "Jharkhand / झारखण्ड",
+        "Odisha / ओडिशा",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "originalNo": 90
+    },
+    {
+      "question": "Where is Maharshi Valmiki International Airport located? / महर्षि वाल्मीकि अंतर्राष्ट्रीय हवाई अड्डा कहाँ है?",
+      "options": [
+        "Ayodhya / अयोध्या",
+        "Kanpur / कानपुर",
+        "Lucknow / लखनऊ",
+        "Varanasi / वाराणसी",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "originalNo": 91
+    },
+    {
+      "question": "Which of the following IIT, is situated in Uttar Pradesh? / निम्नलिखित में से कौन-सी आई.आई.टी. उत्तर प्रदेश में स्थित है?",
+      "options": [
+        "IIT Roorkee / आई.आई.टी. रुड़की",
+        "IIT BHU / आई.आई.टी. बी.एच.यू.",
+        "IIT Bhilai / आई.आई.टी. भिलाई",
+        "IIT Mandi / आई.आई.टी. मंडी",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 92
+    },
+    {
+      "question": "Which of the following is not a schedule tribe of Uttar Pradesh? / निम्नलिखित में से कौन उत्तर प्रदेश की अनुसूचित जनजाति नहीं है?",
+      "options": [
+        "Gond / गोंड",
+        "Tangkhul / टंगखुल",
+        "Tharu / थारू",
+        "Bhil / भील",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 93
+    },
+    {
+      "question": "Fatehpur Sikri was formerly known as \"Fatahabad\", here word \"Fatah\" means victory. This word is derived from which among the following languages? / फ़तेहपुर सीकरी को पहले \"फ़तहबाद\" के नाम से जाना जाता था, यहाँ \"फ़तह\" शब्द का अर्थ जीत है। यह शब्द निम्नलिखित में से किस भाषा से लिया गया है?",
+      "options": [
+        "Sanskrit / संस्कृत",
+        "Persian / फ़ारसी",
+        "Prakrit / प्राकृत",
+        "Urdu / उर्दू",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 94
+    },
+    {
+      "question": "Specialised glazed items with high gloss and luster, like tableware for modern use are produced in which among the following regions of Uttar Pradesh? / आधुनिक उपयोग के लिए टेबलवेयर जैसी उच्च चमक वाली विशേषीकृत चमकदार वस्तुएँ उत्तर प्रदेश के निम्नलिखित में से किस क्षेत्र में उत्पादित की जाती हैं?",
+      "options": [
+        "Mirzapur and Lucknow / मिर्जापुर और लखनऊ",
+        "Saharanpur and Moradabad / सहारनपुर और मुरादाबाद",
+        "Chinhat and Mausalia / चिनहट और मौसेलिया",
+        "Moradabad and Mirzapur / मुरादाबाद और मिर्जापुर",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "originalNo": 95
+    },
+    {
+      "question": "How many times has the Uttar Pradesh Legislative Assembly been constituted till date? / आज तक उत्तर प्रदेश विधानसभा का गठन कितनी बार हुआ है?",
+      "options": [
+        "Twenty / बीस",
+        "Eighteen / अठारह",
+        "Sixteen / सोलह",
+        "Nineteen / उन्नीस",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "originalNo": 96
+    },
+    {
+      "question": "Match the following: / निम्नलिखित का मिलान कीजिए: List-I (सूची-I) a. Saraswati Bhawan Library / सरस्वती भवन पुस्तकालय b. Rampur Raza Library / रामपुर रजा लाइब्रेरी c. Bharti Bhavan Library / भारती भवन पुस्तकालय d. Allahabad Public Library / इलाहाबाद पब्लिक लाइब्रेरी List-II (सूची-II) i. 1864 ii. 1889 iii. 1774 iv. 1914 Options: / विकल्प:",
+      "options": [
+        "a - iv, b - iii, c - ii, d - i",
+        "a - iii, b - iv, c - i, d - ii",
+        "a - ii, b - iii, c - iv, d - i",
+        "a - i, b - ii, c - iii, d - iv",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "originalNo": 97
+    },
+    {
+      "question": "Which among the following dance forms involves a female dancer balancing a column of lighted deepaks over her head while dancing? / निम्नलिखित में से किस नृत्य शैली में एक महिला नर्तकी नृत्य करते समय अपने सिर के ऊपर रोशन दीपकों के एक स्तंभ को संतुलित करती है?",
+      "options": [
+        "Khyal / ख्याल",
+        "Nautanki / नौटंकी",
+        "Kathak / कथक",
+        "Raslila / रसलीला",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 4,
+      "explanation": "",
+      "originalNo": 98
+    },
+    {
+      "question": "Marble to construct 'Diwan-e-Aam' was brought from / 'दीवान-ए-आम' निर्मित संगमरमर ............ से लाई गई।",
+      "options": [
+        "Dholpur / धौलपुर",
+        "Karoli / कारोली",
+        "Makrana / मकराना",
+        "Rajsamand / राजसमंद",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "originalNo": 99
+    },
+    {
+      "question": "When did Uttar Pradesh Government create Non-Conventional Energy Development Agency (NEDA) under the department of additional energy sources as an autonomous institution? / उत्तर प्रदेश सरकार ने एक स्वायत्त संस्था के रूप में अतिरिक्त ऊर्जा स्रोत विभाग के अंतर्गत गैर-पारंपरिक ऊर्जा विकास एजेंसी (NEDA) का निर्माण कब किया?",
+      "options": [
+        "January, 1984 / जनवरी, 1984",
+        "May, 1993 / मई, 1993",
+        "December, 1982 / दिसंबर, 1982",
+        "April, 1983 / अप्रैल, 1983",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "originalNo": 100
+    }
+  ]
+}
