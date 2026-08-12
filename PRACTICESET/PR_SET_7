@@ -1,1 +1,1206 @@
-
+{
+  "title": "General Knowledge — Practice Test (50 Questions)",
+  "duration_minutes": 5,
+  "questions": [
+    {
+      "question": "Who established Ajivika Sampraday? / आजीवक सम्प्रदाय की स्थापना किसने की?",
+      "options": [
+        "Makhali Goshal/मक्खलि गोशाल",
+        "Vasabandhu/वसुबंधु",
+        "Upagupta/उपगुप्त",
+        "Dignag/दिग्नाग",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "The name of Akbar's mother was– / अकबर की माँ का नाम था–",
+      "options": [
+        "Hameeda Banu/हमीदा बानो",
+        "Noor Banu/नूर बानो",
+        "Mariyam Banu/मरियम बानो",
+        "Nargis Banu/नरगिस बानो",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "Who gave the slogan \"One Religion, One Caste, One God for mankind\"?/'एक धर्म, एक जाति, मानवता का एक ईश्वर'' का नारा किसने दिया?",
+      "options": [
+        "Narayan Guru/नारायण गुरु",
+        "Jyotiba Phule/ज्योतिबा फूले",
+        "Subhash Chandra Bose/सुभाष चंद्र बोस",
+        "Mohandas Karamchand Gandhi/मोहनदास करमचंद गांधी",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "Who among the following was not in the Cabinet Mission? / निम्न में से कौन कैबिनेट मिशन में नहीं था?",
+      "options": [
+        "Stafford Cripps/स्टैफोर्ड क्रिप्स",
+        "Pethic Lawrence/पेथिक लॉरेन्स",
+        "A.V. Alexander/ए.वी. एलेक्जेंडर",
+        "John Simon/जॉन साइमन",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": ""
+    },
+    {
+      "question": "Where was headquarters of \"Yugantar Ashram\" located? / \"युगांतर आश्रम\" का मुख्यालय कहाँ स्थित था?",
+      "options": [
+        "Vancouver/वैंकूवर",
+        "Lahore/लाहौर",
+        "London/लंदन",
+        "San Francisco/सैन फ्रांसिस्को",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": ""
+    },
+    {
+      "question": "In which case, the Supreme Court of India propounded the 'doctrine of basic structure' of the Constitution? / किस वाद में, भारत के सर्वोच्च न्यायालय ने 'मूलभूत ढांचे के सिद्धांत' का प्रतिपादन किया?",
+      "options": [
+        "Shankari Prasad case/शंकरी प्रसाद वाद",
+        "Golaknath case/गोलकनाथ वाद",
+        "Keshavananda Bharti case/केशवानंद भारती वाद",
+        "Kharak Singh case/खड़क सिंह वाद",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "The official language of the Union of India shall be Hindi in Devnagri script is mentioned in / भारत संघ की राजभाषा हिन्दी देवनागरी लिपि में होगी, निहित है:",
+      "options": [
+        "Article 341/अनुच्छेद 341",
+        "Article 342/अनुच्छेद 342",
+        "Article 343(1)/अनुच्छेद 343 (1)",
+        "Article 344/अनुच्छेद 344",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "Most of the rights of the Universal Declaration of Human Rights are incorporated in– / मानव अधिकारों की सार्वभौम घोषणा के अधिकतर अधिकार सम्मिलित हैं–",
+      "options": [
+        "Part-III and Part-IV of our Constitution / हमारे संविधान के भाग-III और भाग- IV में",
+        "Part-I and Part-V of our Constitution / हमारे संविधान के भाग-I और भाग-V में",
+        "Part-VII of our Constitution / हमारे संविधान के भाग- VII में",
+        "Articles 308-311 of our Constitution / हमारे संविधान के अनुच्छेद 308-311 में",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "How many seats for the Scheduled Castes are reserved in Lok Sabha?/लोक सभा में अनुसूचित जातियों के लिए कितने स्थान आरक्षित हैं?",
+      "options": [
+        "40",
+        "321",
+        "1/10 of the total members/कुल सदस्यों का 1/10",
+        "84",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": ""
+    },
+    {
+      "question": "Which of the following is the correct ascending order?/निम्न में से कौन सही आरोही क्रम है?",
+      "options": [
+        "Nagar Panchayat, Municipal Council, Municipal Corporation / नगर पंचायत, नगरपालिका परिषद्, नगर निगम",
+        "Municipal Council, Nagar Panchayat, Municipal Corporation / नगरपालिका परिषद्, नगर पंचायत, नगर निगम",
+        "Municipal Council, Municipal Corporation, Nagar Panchayat / नगरपालिका परिषद्, नगर निगम, नगर पंचायत",
+        "Municipal Council, Municipal Corporation, Nagar Panchayat / नगर निगम, नगरपालिका परिषद्, नगर पंचायत",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "Dry winds blowing from north-east and east to west of Sahara desert are known as: / सहारा मरुस्थल में उत्तर-पूर्व व पूर्व से पश्चिम की ओर बहने वाली शुष्क पवनों को जाना जाता है",
+      "options": [
+        "Bora/बोरा",
+        "Sirocco/सिरोक्को",
+        "Harmattan/हरमट्टन",
+        "Mistral/मिस्ट्रल",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "Which of the following descending orders according to length of rivers is correct? / निम्न में से नदियों की लम्बाई के अनुसार कौन सा अवरोही क्रम सही है?",
+      "options": [
+        "Ganga, Yamuna, Godavari, Mahanadi / गंगा, यमुना, गोदावरी, महानदी",
+        "Ganga, Godavari, Krishna, Mahanadi / गंगा, गोदावरी, कृष्णा, महानदी",
+        "Ganga, Brahmaputra, Krishna, Godavari / गंगा, ब्रह्मपुत्र, कृष्णा, गोदावरी",
+        "Mahanadi Ganga, Godavari, Kosi / महानदी, गंगा, गोदावरी, कोसी",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "question": "The Government of India established which of the following institutions to search for mineral deposits? / भारत सरकार ने खनिज भंडारों की खोज करने के लिए निम्न में से किस संस्था की स्थापना की?",
+      "options": [
+        "Indian Bureau of Mines / इण्डियन ब्यूरो ऑफ़ माइन्स",
+        "Geological Survey of India / जियोलॉजिकल सर्वे ऑफ़ इण्डिया",
+        "Oil and Natural Gas Commission / तेल एवं प्राकृतिक गैस आयोग",
+        "All of the above / उपर्युक्त सभी",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": ""
+    },
+    {
+      "question": "Which of the following pairs are properly matched? / निम्न में से कौन युग्म उपयुक्त सुमेलित हैं?\nTribe / जनजाति — State / राज्य\n1. Toda / तोड़ा — Tamil Nadu / तमिलनाडु\n2. Jarwa / जारवा — Jharkhand / झारखण्ड\n3. Garasia / गरासिया — Rajasthan / राजस्थान\n4. Asur / असुर — Chhattisgarh / छत्तीसगढ़",
+      "options": [
+        "1, 4",
+        "1, 2, 3",
+        "1, 3",
+        "1, 2, 3, 4",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "'Main Central Thrust' separates which among the following Himalayan zones? / 'मुख्य केन्द्रीय भ्रंश' निम्न में से किस हिमालय क्षेत्र को अलग करता है?",
+      "options": [
+        "The Great Himalayas from the Lesser Himalayas / महान हिमालय को लघु हिमालय से",
+        "The Great Himalayas from the Siwaliks / महान हिमालय को शिवालिक से",
+        "The Lesser Himalayas from the Siwaliks / लघु हिमालय को शिवालिक से",
+        "The Trans Himalayas from the Great Himalayas / ट्रान्स हिमालय को महान हिमालय से",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "What is the biggest risk associated with nanotechnology? / नैनो टेक्नोलॉजी का सबसे बड़ा खतरा किससे जुड़ा है?",
+      "options": [
+        "Environmental impact / पर्यावरण प्रभाव",
+        "Health risks / स्वास्थ्य जोखिम",
+        "Ethical issues / नैतिक मुद्दे",
+        "All of the above / उपरोक्त सभी",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": ""
+    },
+    {
+      "question": "At what temperature is sterilization done in an autoclave? / autoclave में किस तापमान पर स्टेरलाइजेशन होता है?",
+      "options": [
+        "121°C at 15 psi / 121°C पर 15 psi",
+        "At 100°C / 100°C पर",
+        "At 150°C / 150°C पर",
+        "At 80°C / 80°C पर",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "What is the main use of a biosensor? / जैव सूचक का मुख्य उपयोग क्या है?",
+      "options": [
+        "Disease diagnosis and environmental monitoring / रोग निदान और पर्यावरण निगरानी",
+        "Only food testing / केवल खाद्य परीक्षण",
+        "Only blood testing / केवल रक्त परीक्षण",
+        "Only DNA testing / केवल DNA परीक्षण",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "Satish Dhawan Space Center is located at- / 'सतीश धवन अंतरिक्ष केन्द्र' स्थित है",
+      "options": [
+        "Visakhapatnam / विशाखापट्टनम में",
+        "Goa / गोवा में",
+        "Sriharikota / श्री हरिकोटा में",
+        "Chennai / चेन्नई में",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "Which of the following pair is/are correctly matched? / निम्नलिखित युग्मों में से कौन-सा/से सही सुमेलित है/हैं?\nSpacecraft / अन्तरिक्ष यान — Purpose / प्रयोजन\n1. Cassini-Huygens / कैसिनी-हाइगेन्स : Orbiting the Venus and transmitting data to the earth / शुक्र की परिक्रमा करना और दत आंकड़ों (Data) का पृथ्वी तक संचार करना\n2. Messenger / मैसेंजर : Mapping and investigating the Mercury / बुध का मानचित्रण और अन्वेषण\n3. Voyager 1 and 2 / वॉयेजर 1 और 2 : Exploring the outer solar system / ब्रह्माण्ड में सौर परिवार का अन्वेषण",
+      "options": [
+        "1 only / केवल 1",
+        "2 and 3 only / केवल 2 और 3",
+        "1 and 3 only / केवल 1 और 3",
+        "1, 2 and 3 / 1, 2 और 3",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "question": "Consider the following statements and choose the correct answer from the following code given below: / निम्नलिखित वक्तव्यों पर विचार कीजिए और नीचे दिए कूट से सही उत्तर चुनिए :\nStatement (A): Economic development requires a multi-pronged approach. / कथन (A) : आर्थिक विकास के लिए एक बहुआयामी उपागम की आवश्यकता होती है।\nReason (R): The present Government of India is focusing primarily on microeconomic topics. / कारण (R) : वर्तमान भारत सरकार मुख्यत: सूक्ष्म आर्थिक विषयों पर ध्यान केंद्रित कर रही है।",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A). / (A) और (R) दोनों सही हैं और (R), (A) का सही स्पष्टीकरण है।",
+        "Both (A) and (R) are correct, but (R) is not the correct explanation of (A). / (A) और (R) दोनों सही हैं, किन्तु (R), (A) का सही स्पष्टीकरण नहीं है।",
+        "(A) is correct, but (R) is false. / (A) सही है, किन्तु (R) गलत है।",
+        "(A) is false, but (R) is true. / (A) गलत है, किन्तु (R) सही है।",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "AGMARK Act came into force in India in / एगमार्क एक्ट भारत में कब लागू किया गया?",
+      "options": [
+        "1937",
+        "1952",
+        "1957",
+        "1965",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "For a developing country like India small scale and cottage industries should be encouraged primarily because they- / भारत जैसे विकासशील देश के लिए लघुस्तरीय व कुटीर उद्योगों को मुख्यत: इसलिए प्रोत्साहित करना चाहिए, क्योंकि वे–",
+      "options": [
+        "Equalise wealth distribution / सम्पत्ति का वितरण समान करते हैं",
+        "Generate large employment opportunities / अधिक रोजगार के अवसर उत्पन्न करते हैं",
+        "Produce at lower cost / कम लागत पर उत्पादन करते हैं",
+        "Require lower capital investment / कम पूंजी विनियोग की अपेक्षा करते हैं",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "question": "When did the decimal system begin in India's currency system? / भारत की मुद्रा प्रणाली में दशमलव पद्धति कब से प्रारम्भ हुई थी?",
+      "options": [
+        "1950",
+        "1954",
+        "1957",
+        "1960",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "Which among the following is the largest trading Government Company of India? / निम्नलिखित में से कौन एक भारत की सरकारी क्षेत्र में सबसे बड़ी व्यापारिक संस्था है?",
+      "options": [
+        "Food Corporation of India / भारतीय खाद्य निगम",
+        "Mineral and Metal Trading Corporation / खनिज एवं धातु व्यापार निगम",
+        "Khadi & Village Industries Corporation / खादी व ग्रामोद्योग निगम",
+        "Trade Fair Authority of India / भारतीय व्यापार मेला प्राधिकरण",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "question": "What is Green Peace? / 'ग्रीन पीस' (हरित शान्ति) क्या है?",
+      "options": [
+        "An agriculture related institution / एक कृषि-सम्बन्धित संस्था",
+        "An International peace army / एक अंतर्राष्ट्रीय शान्ति सेना",
+        "An International organization of environment supporters / पर्यावरण समर्थकों का एक अंतर्राष्ट्रीय संगठन",
+        "All of the above / उपर्युक्त सभी",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "Trophic level-I includes- / प्रथम पोषक स्तर के अन्तर्गत आते हैं–",
+      "options": [
+        "Herbivorous animals / शाकाहारी जंतु",
+        "Carnivorous animals / मांसाहारी जंतु",
+        "Omnivorous animals / सर्वभक्षी जंतु",
+        "Green plants / हरित पादप",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": ""
+    },
+    {
+      "question": "A sandy and saline area is the natural habitat of an Indian animal species. The animal has no predators in that area but its existence is threatened due to the destruction of its habitat. What one of the following could be that animal? / बलुई और लवणीय क्षेत्र एक भारतीय पशु जाति का प्राकृतिक आवास है। इस क्षेत्र में उस पशु के कोई परभक्षी नहीं है किन्तु आवास ध्वंस होने के कारण उसका अस्तित्व खतरे में है। यह पशु निम्नलिखित में कौन-सा हो सकता है?",
+      "options": [
+        "Indian wild buffalo / भारतीय वन्य भैंस",
+        "Indian wild ass / भारतीय वन्य गधा",
+        "Indian wild boar / भारतीय वन्य शूकर",
+        "Indian gazelle / भारतीय गजेल् (कुरंग)",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "question": "Consider the following statements: / निम्नलिखित कथनों पर विचार कीजिए–\n1. In India, Red Panda is naturally found in the Western Himalayas only / भारत में, रेड पांडा प्राकृतिक रूप से केवल पश्चिमी हिमालय में पाया जाता है।\n2. In India, Slow Loris lives in the dense forests of the North East / भारत में स्लो लोरिस (Slow Loris) उत्तर पूर्व के सघन वनों में रहता है।",
+      "options": [
+        "1 only / केवल 1",
+        "2 only / केवल 2",
+        "Both 1 and 2 / 1 और 2 दोनों",
+        "Neither 1 nor 2 / न तो 1 और न ही 2",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "question": "Kyoto protocol came into effect in / क्योटो प्रोटोकॉल कब लागू हुआ?",
+      "options": [
+        "2005",
+        "2000",
+        "2010",
+        "2020",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "Which of the following are future directions of disaster management and mitigation? / निम्नलिखित में से कौन सी आपदा प्रबंधन एवं न्यूनीकरण की भविष्य की दिशाएँ शामिल हैं?",
+      "options": [
+        "Nature-based solution / नेचर-बेस्ड साल्यूशंस",
+        "Inclusive approach / सर्व समावेशी दृष्टिकोण",
+        "Anti-fragile systems / एंटी-फ्रजाइल सिस्टम",
+        "All of the above / उपर्युक्त सभी",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": ""
+    },
+    {
+      "question": "Match the correct pair– / सही युग्म सुमेलित करें–\nA. SDRF / एस.डी.आर.एफ. — i. National Disaster Response Force / राष्ट्रीय आपदा प्रतिक्रिया बल\nB. NDRF / एन.डी.आर.एफ. — ii. State Disaster Response Force / राज्य आपदा प्रतिक्रिया बल\nC. SDMA / एस.डी.एम.ए. — iii. National Disaster management Authority / राष्ट्रीय आपदा प्रबंधन प्राधिकरण\nD. NDMA / एन.डी.एम.ए. — iv. State Disaster Management Authority / राज्य आपदा प्रबंधन प्राधिकरण",
+      "options": [
+        "i ii iii iv",
+        "ii i iv iii",
+        "ii i iii iv",
+        "i ii iv iii",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "question": "In which era did the first volcanic activity occur in India? / भारत में प्रथम ज्वालामुखी क्रिया किस युग में हुई थी?",
+      "options": [
+        "Dharwar / धारवाड़",
+        "Jurassic / जुरासिक",
+        "Pleistocene / प्लिस्टोसीन",
+        "All of the above / उपर्युक्त सभी",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "Which of the following is NOT responsible for increase in the biodiversity of an ecosystem? / निम्नलिखित में से कौन एक पारिस्थितिक तंत्र की जैव विविधता की बढ़ोत्तरी के लिए उत्तरदायी नहीं है?",
+      "options": [
+        "Productivity of the ecosystem / पारिस्थितिक तंत्र की उत्पादकता",
+        "Intermediate disturbance / मध्य-व्यवधान",
+        "Age of the ecosystem / पारिस्थितिक तंत्र की आयु",
+        "Less number of tropic levels / पोषण स्तरों की कम संख्या",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": ""
+    },
+    {
+      "question": "As a part of wild-life conservation efforts in Nepal and India, a new association by the name 'SAVE' was launched recently. The objective of SAVE is to conserve / नेपाल और भारत में वन-जीवन संरक्षण प्रयासों के रूप में 'सेव' (SAVE) नामक एक नया संगठन प्रारंभ किया गया है। 'सेव' का उद्देश्य है– संरक्षण करना–",
+      "options": [
+        "Vultures / गिद्ध का",
+        "Tigers / चीता का",
+        "Parrots / तोते का",
+        "Elephants / हाथी का",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "What was the main objective of the Human Genome Project? / मानव जीनोम प्रोजेक्ट का मुख्य उद्देश्य क्या था?",
+      "options": [
+        "Complete mapping of human DNA / मानव DNA की पूरी मैपिंग",
+        "Gene mapping of plants / पौधों की जीन मैपिंग",
+        "Study of bacteria / बैक्टीरिया का अध्ययन",
+        "Gene effect in space / अंतरिक्ष में जीन प्रभाव",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "When was the 'Atmanirbhar Bharat Abhiyan' announced? / 'आत्मनिर्भर भारत अभियान' की घोषणा कब की गई थी?",
+      "options": [
+        "2014",
+        "12 May 2020 / 12 मई 2020",
+        "2019",
+        "2021",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "question": "India's NavIC system is an example of which type of technology? / भारत का NavIC सिस्टम किस प्रकार की तकनीक का उदाहरण है?",
+      "options": [
+        "Dual-use space technology / द्वि-उपयोगी स्पेस टेक्नोलॉजी",
+        "Military only / केवल सैन्य",
+        "Agriculture only / केवल कृषि",
+        "Weather only / केवल मौसम",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "Who headed the Integrated Guided Missile Development Programme? / एकीकृत निर्देशित मिसाइल विकास कार्यक्रम का नेतृत्व किसने किया था?",
+      "options": [
+        "Dr. A.P.J. Abdul Kalam / डॉ. ए.पी.जे. अब्दुल कलाम",
+        "Dr. V.S. Arunachalam / डॉ. वी.एस. अरुणाचलम",
+        "Dr. R. Chidambaram / डॉ. आर. चिदंबरम",
+        "Dr. Satish Dhawan / डॉ. सतीश धवन",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "What is the main objective of self-reliance in the defence sector under 'Make in India'? / 'मेक इन इंडिया' के अंतर्गत रक्षा क्षेत्र में आत्मनिर्भरता का मुख्य उद्देश्य क्या है?",
+      "options": [
+        "Reducing imports and increasing indigenous production / आयात कम करना और स्वदेशी उत्पादन बढ़ाना",
+        "Only increasing exports / केवल निर्यात बढ़ाना",
+        "Inviting foreign companies / विदेशी कंपनियों को आमंत्रित करना",
+        "Reducing the budget / बजट घटाना",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "In December 2025, Which young cricketer was honored with the Prime Minister's National Child Award 2025 by President Draupadi Murmu? / दिसंबर 2025 में राष्ट्रपति द्रौपदी मुर्मू ने किस युवा क्रिकेटर को प्रधानमंत्री राष्ट्रीय बाल पुरस्कार 2025 से सम्मानित किया?",
+      "options": [
+        "Shubman Gill / शुभमन गिल",
+        "Prithvi Shaw / पृथ्वी शॉ",
+        "Vaibhav Suryavanshi / वैभव सूर्यवंशी",
+        "Yashaswi Jaiswal / यशस्वी जायसवाल",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "Bihar's first supercomputer, Param Rudra, was inaugurated at IIT Patna in December 2025 who developed it? / दिसंबर 2025 में IIT पटना में बिहार के पहले सुपरकंप्यूटर परम रुद्र का उद्घाटन हुआ है। इसे किसने विकसित किया है?",
+      "options": [
+        "ISRO Bengaluru / ISRO बेंगलुरू",
+        "IIT Bombay / IIT बॉम्बे",
+        "C-DAC, Pune / C-DAC, पुणे",
+        "DRDO, Delhi / DRDO, दिल्ली",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "Who has been selected as the male Athlete of the year at the world Athletics Awards 2025? / 'विश्व एथलेटिक्स पुरस्कार 2025' में वर्ष का सर्वश्रेष्ठ पुरुष एथलीट किसे चुना गया है?",
+      "options": [
+        "Neeraj Chopra / नीरज चोपड़ा",
+        "Lionel Messi / लियोनेल मेस्सी",
+        "Mondou Duplantis / मोंडो डुप्लांटिस",
+        "Max Verstappen / मैक्स वेरस्टैपेन",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "In December 2025, President Droupadi Murmu released the version of the constitution of India in which language? / दिसंबर 2025 में राष्ट्रपति द्रौपदी मुर्मू ने किस भाषा में भारत के संविधान के संस्करण का विमोचन किया है?",
+      "options": [
+        "Dogri / डोगरी",
+        "Bodo / बोडो",
+        "Santhali / संथाली",
+        "Maithilee / मैथिली",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "Which state will become the first in India to adopt a rolling budget? / रोलिंग बजट अपनाने वाला भारत का पहला राज्य कौन-सा बनेगा?",
+      "options": [
+        "Chattisgarh / छत्तीसगढ़",
+        "Kerala / केरल",
+        "Madhya Pradesh / मध्य प्रदेश",
+        "Odisha / ओडिशा",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "Production declined to its lowest level in this year: / उत्पादन न्यूनतम स्तर तक इस वर्ष घटा:",
+      "options": [
+        "2012-13",
+        "2015-16",
+        "2016-17",
+        "2019-20",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "question": "Production witnessed the maximum increase during the year compared to the previous year. / उत्पादन में पिछले वर्ष की तुलना में वर्ष ............ के दौरान अधिकतम वृद्धि हुई।",
+      "options": [
+        "2013-14",
+        "2017-18",
+        "2014-15",
+        "2018-19",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "The average production during the first three years was: / प्रथम तीन वर्षों के दौरान औसत उत्पादन था:",
+      "options": [
+        "44 MT",
+        "46 MT",
+        "48 MT",
+        "50 MT",
+        "None of the above / उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "The maximum production of cement was recorded in the year: / सीमेंट का अधिकतम उत्पादन वर्ष में दर्ज किया गया था:",
+      "options": [
+        "2013-14",
+        "2014-15",
+        "2018-19",
+        "2017-18",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "question": "The percentage increase in production during the year 2011-12, compared to the previous year was: / वर्ष 2011-12 के दौरान उत्पादन वृद्धि प्रतिशत पिछले वर्ष की तुलना में था",
+      "options": [
+        "31.8%",
+        "36%",
+        "37.5%",
+        "All of the above/उपरोक्त सभी",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "The percentage increase in imports of X from 2014-15 to 2015-16 is: / वर्ष 2014-15 से 2015-16 के दौरान X के आयात में वृद्धि प्रतिशत है–",
+      "options": [
+        "43.0%",
+        "33.3%",
+        "28.8%",
+        "25.0%",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "question": "The average year-on-year growth in imports of X for all years (₹ croros) is: / सभी वर्षों के लिए वर्ष दर वर्ष X के आयात की वृद्धि का औसत (₹ करोड़) में है",
+      "options": [
+        "260",
+        "280",
+        "325",
+        "All of the above/उपरोक्त सभी",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "For how many gears in the past were X's imports greater than X's average imports? / विगत कितने वर्षों तक X का आयात, X के औसत आयात से अधिक था?",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "1",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "The difference between the years when X's imports were greater than X's average imports and the year when X's imports were less than X's average imports is– / X के औसत आयात से अधिक आयात और X के औसत आयात से कम आयात के वर्षों का अंतर है–",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "0",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "question": "During the year 2018-19 what was the percentage increase in the import of X relative to the average import of X across all the given years? / वर्ष 2018-19 के दौरान X के आयात में प्रतिशत वृद्धि सभी वर्षों के X के आयात के उसके औसत से कितनी है?",
+      "options": [
+        "50.9%",
+        "63.5%",
+        "70.6%",
+        "64.38%",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": ""
+    },
+    {
+      "question": "बस स्टैंड के पास आवारा लड़कों के व्यवहार को बताते हुए तथा उनके खिलाफ छेड़खानी के विरुद्ध एफआईआर दर्ज करवाने के लिए किसे आवेदन-पत्र लिखेंगे?",
+      "options": [
+        "थानाध्यक्ष महोदय",
+        "संस्थापक महोदय",
+        "बस स्टैंड अधिकारी",
+        "अधिकारी महोदय",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "किस वर्ण का उच्चारण-स्थान कंठ-तालु है?",
+      "options": [
+        "ओ",
+        "ऐ",
+        "ह",
+        "छ",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "question": "'यशोदा' में प्रयुक्त संधि का नाम है -",
+      "options": [
+        "स्वर",
+        "व्यंजन",
+        "विसर्ग",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "रिक्शा",
+      "options": [
+        "जापानी",
+        "चीनी",
+        "अरबी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "इनमें से एक शब्द की वर्तनी अशुद्ध है, वह है–",
+      "options": [
+        "द्वारिका",
+        "अहिल्या",
+        "आर्दै",
+        "प्रज्वज्या",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "संयुक्त वाक्य- 'वह दंड से बचना चाहता था, इसलिए भाग गया।' निम्नलिखित विकल्पों में से इस वाक्य के लिए कौन सा एक उचित सरल वाक्य होगा?",
+      "options": [
+        "वह दंड से बचना चाहता था भाग गया।",
+        "बचना चाहता था, इसलिए भाग गया।",
+        "दंड से बचने के लिए वह भाग गया।",
+        "वह बचना चाहता था, इसलिए भाग गया।",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "निम्नलिखित में से पूर्णविराम चिन्ह की पहचान कीजिए।",
+      "options": [
+        ":",
+        ";",
+        "।",
+        "?",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "निम्नलिखित में सही 'कहावत' कौन सी है?",
+      "options": [
+        "फीकी दुकान ऊँचा पकवान",
+        "फीका पकवान ऊँची दुकान",
+        "ऊँची दुकान फीका पकवान",
+        "फीकी दुकान फीका पकवान",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "निम्नलिखित में से कौन-सा शब्द पुल्लिंग है?",
+      "options": [
+        "आय",
+        "व्यय",
+        "नहर",
+        "लहर",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "question": "निम्न में से 'पक्षी' शब्द का पर्यायवाची नहीं है:",
+      "options": [
+        "विहंग",
+        "गाछ",
+        "खग",
+        "शकुन्त",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "question": "\"For computer, world consists of zeros and ones only. To store the zeros and ones,........... is placed inside a processor: / कम्प्यूटर की दुनिया शून्य और एक से निर्मित है। इन शून्य और एक को भंडारित करने के लिए प्रोसेसर के अंदर..............लगाया जाता है।",
+      "options": [
+        "I/O device/युक्ति I/O",
+        "Instruction set/निर्देश समूह",
+        "Transistor/ट्रांजिस्टर",
+        "Main Memory/मुख्य स्मृति",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "Which of the following is not a part of a personal computer?/निम्नलिखित में से कौन-सा पर्सनल कंप्यूटर का एक भाग नहीं है?",
+      "options": [
+        "CPU/सीपीयू",
+        "USB/यूएसबी",
+        "RAM/रैम",
+        "ROM/रोम",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "question": "Which one is an example for case based learning?/कौन-सा केस आधारित लर्निंग का एक उदाहरण है?",
+      "options": [
+        "Decision tree/निर्णय वृक्ष",
+        "Neural network/तंत्रिका नेटवर्क",
+        "Genetic algorithm/जेनेटिक एल्गोरिदम",
+        "k-nearest neighbour/के-निकतम पड़ोसी",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": ""
+    },
+    {
+      "question": "Another name for lazy learning algorithm is: / लेज़ी लर्निंग एल्गोरिथ्म का दूसरा नाम है–",
+      "options": [
+        "K-Nearest Neighbor/के नियरेस्ट नेइबर",
+        "Regression/रिग्रेशन",
+        "Classification/क्लासिफिकेशन",
+        "Neural Networks/न्यूरल नेटवर्क्स",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "A dedicated computer:/एक समर्पित कम्प्यूटर",
+      "options": [
+        "is used by one person only / केवल एक व्यक्ति द्वारा उपयोग किया जाता है।",
+        "is assigned to one and only one task / एक को सौंपा गया है और केवल एक ही कार्य है",
+        "has one kind of software / एक प्रकार का सॉफ्टवेयर है।",
+        "is meant for application software only / केवल एप्लीकेशन सॉफ्टवेयर के लिए है।",
+        "is meant for system software only / केवल सिस्टम सॉफ्टवेयर के लिए है।"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "question": "Related to computers, what is 'Wetware'? / कम्प्यूटर के संदर्भ में 'वेट वेयर' क्या होता है?",
+      "options": [
+        "Computer programme/कम्प्यूटर प्रोग्राम",
+        "Circuitory/सर्किटरी",
+        "Human brain/मानव-मस्तिष्क",
+        "Chemical Storage device/रासायनिक संग्रहण यंत्र",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "Extension of VRML files is / VRML फाइलों का एक्सटेंशन है",
+      "options": [
+        ".vml",
+        ".vrm",
+        ".wrm",
+        ".wrl",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": ""
+    },
+    {
+      "question": "In EMV chip card what does 'E' stand for? / ई.एम.वी. चिप कार्ड में, 'E' का अर्थ क्या है?",
+      "options": [
+        "Emergency/इमरजेंसी",
+        "Electronic/इलेक्ट्रॉनिक",
+        "Europay/यूरोपेत",
+        "Ebay/इबे",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "In MS-Word 2019, the shortcut keys to insert a footnote are: / MS-Word 2019 में फुटनोट इनसर्ट करने के लिए शॉर्टकट कीज है।",
+      "options": [
+        "Ctrl+Alt+F",
+        "Alt+Shift+F12",
+        "Alt+Ctrl+D",
+        "Alt+Shift+F",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "The shortcut key 'Ctrl +X' used for which of the following? / शॉर्टकट कुंजी 'Ctrl +X' का प्रयोग निम्नलिखित में से किसके लिए किया जाता है?",
+      "options": [
+        "To copy the selected text / सेलेक्ट किए गए टेक्स्ट को कॉपी करने के लिए",
+        "To skew the selected text / सेलेक्ट किए गए टेक्स्ट को तिरछा करने के लिए",
+        "To paste the copied text / कॉपी किए गए टेक्स्ट को पेस्ट करने के लिए",
+        "Selected text to cut / सेलेक्ट किए गए टेक्स्ट को कट करने के लिए",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": ""
+    },
+    {
+      "question": "In the context of a word document, the word 'gutter' is used for? / वर्ड डॉक्यूमेंट के संदर्भ में, 'गटर' शब्द किसके लिए प्रयोग किया जाता है?",
+      "options": [
+        "The space left in the left side for rough work / रफ काम के लिए बाईं ओर छोड़ दिया गया स्थान",
+        "Blank page inserted between two filled pages / दो भरे हुए पृष्ठों के बीच में डाला गया रिक्त पृष्ठ",
+        "Space between two paragraphs / दो पैराग्राफ के बीच का स्थान",
+        "Space left in one side for sewing and binding / सिलाई और बाइंडिंग के लिए एक तरफ बचा हुआ स्थान",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": ""
+    },
+    {
+      "question": "When you open a spreadsheet in MS-Excel, _______ displays the name of the Excel worksheet. / जब आप एमएस-एक्सेल में स्प्रेडशीट खोलते हैं, तो ....... 'एक्सेल वर्कशीट का नाम प्रदर्शित करता है।",
+      "options": [
+        "Title Bar/टाइटल बार",
+        "Formula Bar/फॉर्मूला बार",
+        "Cell/सेल",
+        "Menu Bar/मेनू बार",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "Which of the following is NOT a benefit of Internet Banking? / निम्न में से कौन-सा इंटरनेट बैंकिंग का एक लाभ नहीं है?",
+      "options": [
+        "Get higher rate of interest / ब्याज की उच्चतर दर प्राप्त करना",
+        "Pay bills online/बिलों का ऑनलाइन भुगतान",
+        "Transfer funds on-the-go / धन का सक्रिय स्थानांतरण करना",
+        "View account statements anytime / किसी भी समय खाता विवरण देखना",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "Unix operating system was developed in 1970s by/यूनिक्स ऑपरेटिंग सिस्टम को वर्ष 1970 के दशक में ........... द्वारा विकसित किया गया था।",
+      "options": [
+        "Moto Labs/मोटो लैब्स",
+        "Microsoft Labs/माइक्रोसॉफ्ट लैब्स",
+        "IBM Labs/आईबीएम लैब्स",
+        "Bell Labs/बेल लैब्स",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": ""
+    },
+    {
+      "question": "An 'Optical Character Reader' is an example of:/एक 'ऑप्टिकल कैरेक्टर रीडर' एक उदाहरण है:",
+      "options": [
+        "control unit/कंट्रोल यूनिट",
+        "input unit/इनपुट यूनिट",
+        "arithmetic and logic unit / अर्थमेटिक एंड लॉजिक यूनिट",
+        "output unit/आउटपुट यूनिट",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "question": "The 'Doab' region in Uttar Pradesh refers to the land between which two rivers? / उत्तर प्रदेश में 'दोआब' क्षेत्र किन दो नदियों के बीच की भूमि को संदर्भित करता है?",
+      "options": [
+        "Ghaghara and Gandak/घाघरा और गंडक",
+        "Ganga and Ghaghara/गंगा और घाघरा",
+        "Ganga and Yamuna/गंगा और यमुना",
+        "Yamuna and Ganga/यमुना और गंगा",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "What was the population density of Uttar Pradesh according to the 2011 census? / 2011 की जनगणना के अनुसार उत्तर प्रदेश का जनसंख्या घनत्व कितना था?",
+      "options": [
+        "950 persons per square km / 950 व्यक्ति प्रति वर्ग किमी",
+        "900 persons per square km / 900 व्यक्ति प्रति वर्ग किमी",
+        "700 persons per square km / 700 व्यक्ति प्रति वर्ग किमी",
+        "829 persons per square km / 829 व्यक्ति प्रति वर्ग किमी",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": ""
+    },
+    {
+      "question": "Which of the following is the national flower of Uttar Pradesh? / उत्तर प्रदेश का राजकीय पुष्प निम्नलिखित में से कौन सा है?",
+      "options": [
+        "Brahma Kamal/ब्रह्म कमल",
+        "Kalihari/कलियारी (अग्निशिखा)",
+        "Rhododendrons/रोडोडेन्ड्रॉन",
+        "Lotus/कमल",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 4,
+      "explanation": ""
+    },
+    {
+      "question": "Which river in Uttar Pradesh is associated with the legend of Lord Rama and flows through the city of Ayodhya? / उत्तर प्रदेश की कौन-सी नदी भगवान राम की कथा से जुड़ी है और अयोध्या शहर से होकर बहती है?",
+      "options": [
+        "Yamuna/यमुना",
+        "Ghaghara/घाघरा",
+        "Sarayu/सरयू",
+        "Gomti/गोमती",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "Mahendra Singh Tikait led a major farmers' protest in April 1987 in Western Uttar Pradesh against which of the following issues? / महेंद्र सिंह टिकैत ने निम्नलिखित में से किस मुद्दे के खिलाफ अप्रैल 1987 में पश्चिमी उत्तर प्रदेश में एक बड़े किसान विरोध का नेतृत्व किया?",
+      "options": [
+        "Minimum Support Price (MSP) reduction / न्यूनतम समर्थन मूल्य (MSP) में कमी",
+        "Ban on Sugarcane farming / गन्ने की खेती पर प्रतिबंध",
+        "Land acquisition by the government / सरकार द्वारा भूमि अधिग्रहण",
+        "Proposed hike in power tariff / बिजली दरों में प्रस्तावित वृद्धि",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": ""
+    },
+    {
+      "question": "Which of the following websites has been designed and developed to look after the finance health of the State of Uttar Pradesh and to bring transparency in government transactions? / उत्तर प्रदेश राज्य की वित्तीय सेहत की देखभाल करने तथा सरकारी लेन-देन में पारदर्शिता लाने के लिए निम्नलिखित में से कौन-सी वेबसाइट तैयार की गई है?",
+      "options": [
+        "NIC/एनआईसी",
+        "Srishti/सृष्टि",
+        "Koshvani/कोशवाणी",
+        "UPFC/यूपीएफसी",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "Which government body is responsible for publishing the Statistical Magazine in Uttar Pradesh? / उत्तर प्रदेश में सांख्यिकी पत्रिका प्रकाशित करने के लिए कौन-सी संस्था उत्तरदायी है?",
+      "options": [
+        "Department of Economic Affairs, Ministry of Finance, Government of India/आर्थिक मामलों का विभाग, वित्त मंत्रालय, भारत सरकार",
+        "Reserve Bank of India (RBI) / भारतीय रिजर्व बैंक (RBI)",
+        "National Statistics Office (NSO), Ministry of Statistics and Programme Implementation / राष्ट्रीय सांख्यिकी कार्यालय (NSO), सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय",
+        "Economics and Statistics Division of the Planning Department, Uttar Pradesh/उत्तर प्रदेश के योजना विभाग का अर्थशास्त्र और सांख्यिकी प्रभाग",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": ""
+    },
+    {
+      "question": "The 'Bharat Kala Bhavan' museum known for its collection of Indian art and artifacts, is located in which university campus in Uttar Pradesh? / भारतीय कला और कलाकृतियों के संग्रह के लिए प्रसिद्ध 'भारत कला भवन' संग्रहालय उत्तर प्रदेश के किस विश्वविद्यालय परिसर में स्थित है?",
+      "options": [
+        "Aligarh Muslim University / अलीगढ़ मुस्लिम विश्वविद्यालय",
+        "Dr. Bhimrao Ambedkar University / डॉ. भीमराव आंबेडकर विश्वविद्यालय",
+        "Lucknow University/लखनऊ विश्वविद्यालय",
+        "Banaras Hindu University / बनारस हिंदू विश्वविद्यालय",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": ""
+    },
+    {
+      "question": "Green Park cricket stadium is situated at....in Uttar Pradesh./ग्रीन पार्क क्रिकेट स्टेडियम उत्तर प्रदेश के .............जिले में स्थित है।",
+      "options": [
+        "Lucknow/लखनऊ",
+        "Noida/नोएडा",
+        "Kanpur/कानपुर",
+        "Varanasi/वाराणसी",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "In which year was Kishanpur Wildlife Sanctuary declared a wildlife sanctuary under the Wildlife Protection Act? / किस वर्ष किशनपुर वन्यजीव अभयारण्य को वन्य जीव संरक्षण अधिनियम के तहत वन्यजीव अभयारण्य घोषित किया गया था?",
+      "options": [
+        "1991",
+        "1985",
+        "1956",
+        "1973",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 4,
+      "explanation": ""
+    },
+    {
+      "question": "Which National Highway in Uttar Pradesh starts from its junction with NH-9 at Moradabad, passes through Chandausi, Babrala, Aligarh and terminates at its junction with NH-44 at Agra? / उत्तर प्रदेश में कौन-सा राष्ट्रीय राजमार्ग मुरादाबाद में NH-9 जंक्शन से शुरू होता है चंडीसी, बबराला, अलीगढ़ से होकर गुजरता है और आगरा में NH-44 के जंक्शन पर समाप्त होता है?",
+      "options": [
+        "NH-509/एनएच-509",
+        "NH-19/एनएच-19",
+        "NH-34/एनएच-34",
+        "NH-119/एनएच-119",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "When was Uttar Pradesh Rajya Vidyut Utpadan Nigam Limited (UPRVUNL) constituted and under which Act? / उत्तर प्रदेश राज्य विद्युत उत्पादन निगम लिमिटेड (UPRVUNL) का गठन किस अधिनियम के तहत और कब किया गया था?",
+      "options": [
+        "December 10, 1990 under the Electricity Act 2003/विद्युत अधिनियम 2003 के तहत, 10 दिसम्बर, 1990",
+        "January 1, 1985 under the Companies Act 1956/कंपनी अधिनियम 1956 के तहत, 1 जनवरी, 1985",
+        "August 25, 1980 under the Companies Act 1956/कंपनी अधिनियम 1956 के तहत, 25 अगस्त, 1980",
+        "August 15, 1982 under the Electricity Act 2003/विद्युत अधिनियम 2003 के तहत, 15 अगस्त, 1982",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "Which of the following is correct about Rakar Soil found in the Uttar Pradesh? / उत्तर प्रदेश में पाई जाने वाली राकर मिट्टी के बारे में निम्नलिखित में से कौन-सा सही है?",
+      "options": [
+        "It is also known as padwa soil / इसे पड़वा मिट्टी के नाम से भी जाना जाता है",
+        "It contains 30% of aluminium / इसमें 30% एल्युमीनियम होता है",
+        "Crops like sesame and grams are grown here / यहाँ तिल और चने जैसी फसलें उगायी जाती हैं",
+        "It contains 60% of silica/इसमें 60% सिलिका होता है",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "Which district of Uttar Pradesh is famous for the 'Nakkataiya', a unique cultural procession during Dussehra? / उत्तर प्रदेश का कौन-सा जिला दशहरा के दौरान एक अद्वितीय सांस्कृतिक जुलूस 'नक्कटैया' के लिए प्रसिद्ध है?",
+      "options": [
+        "Mathura/मथुरा",
+        "Varanasi/वाराणसी",
+        "Gorakhpur/गोरखपुर",
+        "Bareilly/बरेली",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "question": "During the last phase of the reign of Awadh, Kanpur was formed by merging several villages. Which of the following was not one of those villages? / अवध के शासन के अंतिम चरण में, कानपुर का निर्माण कई गाँवों को मिलाकर किया गया था। निम्नलिखित में से कौन-सा गाँव उन गाँवों में से एक नहीं था?",
+      "options": [
+        "Seemamau/सीमामऊ",
+        "Kuraswam/कुरस्वाम",
+        "Bithoor/बिठूर",
+        "Patkapura/पटकापुरा",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "As per Article 243J of the Indian Constitution, what aspect of Panchayati Raj governance can the State Legislature regulate? / भारतीय संविधान के अनुच्छेद 243J के अनुसार, राज्य विधानमंडल पंचायती राज शासन के किस पहलू को विनियमित कर सकता है?",
+      "options": [
+        "Maintenance and audit of Panchayat accounts / पंचायत खातों का रखरखाव और लेखापरीक्षा",
+        "Appointment of Panchayat officials / पंचायत अधिकारियों की नियुक्ति",
+        "Policy formulation for urban governance / शहरी शासन के लिए नीति निर्माण",
+        "Conduct of Panchayat elections / पंचायत चुनावों का संचालन",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "question": "Lalitpur district is a part of _________ / ललितपुर जिला ____________ का एक हिस्सा है।",
+      "options": [
+        "Basti Division/बस्ती डिवीजन",
+        "Gorakhpur Division/गोरखपुर डिवीजन",
+        "Jhansi Division/झांसी डिवीजन",
+        "Chitrakoot Division/चित्रकूट डिवीजन",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "Which agro-climatic zone of Uttar Pradesh has high agricultural productivity? / उत्तर प्रदेश के किस कृषि-जलवायु क्षेत्र में कृषि उत्पादकता अधिक है?",
+      "options": [
+        "Eastern plain/पूर्वी मैदान",
+        "Bundelkhand region/बुंदेलखंड क्षेत्र",
+        "Western plain/पश्चिमी मैदान",
+        "Tarai and Bhabar region/तराई और भाबर क्षेत्र",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "question": "Which of the following pairs is incorrectly matched? / निम्नलिखित में से कौन-सा जोड़ा गलत सुमेलित है?",
+      "options": [
+        "Sahariya - Lalitpur/सहरिया - ललितपुर",
+        "Chero - Varanasi/चेरो - वाराणसी",
+        "Baiga - Sonbhadra/बैगा - सोनभद्र",
+        "Kharwar - Gorakhpur/खरवार - गोरखपुर",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": ""
+    },
+    {
+      "question": "Where is Diesel Locomotive Works factory in Uttar Pradesh located? / उत्तर प्रदेश में डीजल लोकोमोटिव वर्क्स फैक्टरी कहाँ स्थित है?",
+      "options": [
+        "Lucknow/लखनऊ",
+        "Kanpur/कानपुर",
+        "Varanasi/वाराणसी",
+        "Prayagraj/प्रयागराज",
+        "None of the above/उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": ""
+    }
+  ]
+}
